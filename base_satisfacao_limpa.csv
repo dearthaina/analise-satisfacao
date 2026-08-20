@@ -1,0 +1,1013 @@
+id_pesquisa,id_cliente,data_resposta,trimestre_ref,segmento_declarado,produto,canal,tempo_relacionamento,nota_satisfacao,comentario,trimestre,nota_media_atendimento,qtd_atendimentos,reclamacoes_90d,tempo_medio_resolucao,acessos_app_30d,suitability_pendente
+FD00001,103,2025-08-26,2025T3,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,10,,2025Q3,,0.0,1.0,53.9,5.0,0.0
+FD00002,269,2025-07-08,2025T3,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,16.3,11.0,0.0
+FD00003,229,2025-08-21,2025T3,Novo Investidor,Fundos,Internet Banking,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,25.5,5.0,0.0
+FD00004,97,2025-07-29,2025T3,Alta Renda,Carteira Administrada,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,41.15,12.0,1.0
+FD00005,105,2025-08-22,2025T3,Novo Investidor,Tesouro Direto,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00006,372,2025-09-18,2025T3,Private,Fundos,App,0-6 meses,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,26.2,8.0,1.0
+FD00007,22,2025-05-09,2025T3,Private,Fundos,App,2-5 anos,10,Atendimento claro e rapido,2025Q3,9.0,1.0,0.0,22.3,7.0,0.0
+FD00008,227,2025-11-08,2025T3,Novo Investidor,Fundos,App,0-6 meses,4,Demora para resolver meu problema,2025Q3,,0.0,0.0,28.4,10.0,0.0
+FD00009,459,2025-09-16,2025T3,Private,CDB,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q3,9.0,1.0,0.0,25.05,13.0,0.0
+FD00010,16,2025-01-09,2025T3,Private,CDB,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00011,165,2025-08-16,2025T3,Private,Carteira Administrada,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00012,395,2025-07-14,2025T3,Alta Renda,Fundos,App,0-6 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,38.9,10.0,0.0
+FD00013,401,2025-07-18,2025T3,Private,Fundos,Assessoria,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00014,270,2025-08-26,2025T3,Alta Renda,CDB,App,5+ anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,29.35,17.0,0.0
+FD00015,132,2025-10-07,2025T3,Private,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,28.4,12.0,0.0
+FD00016,321,2025-09-21,2025T3,Alta Renda,CDB,App,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,1.0,8.0,0.0
+FD00017,137,2025-08-09,2025T3,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q3,10.0,1.0,0.0,,0.0,0.0
+FD00018,301,2025-09-13,2025T3,Private,CDB,App,0-6 meses,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00019,82,2025-05-08,2025T3,Varejo,CDB,Assessoria,5+ anos,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,,0.0,0.0
+FD00020,87,2025-08-20,2025T3,Varejo,Fundos,Central de Atendimento,5+ anos,10,Consegui acompanhar minha carteira,2025Q3,10.0,1.0,0.0,24.8,2.0,0.0
+FD00021,280,2025-07-26,2025T3,Varejo,Tesouro Direto,App,6-24 meses,7,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,,0.0,0.0
+FD00022,254,2025-02-09,2025T3,Alta Renda,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2025Q3,8.0,1.0,0.0,12.175,36.0,0.0
+FD00023,426,2025-10-07,2025T3,Alta Renda,COE,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,9.0,1.0,0.0,4.6,11.0,0.0
+FD00024,111,2025-11-09,2025T3,Alta Renda,CDB,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2025Q3,9.0,1.0,0.0,18.4,4.0,0.0
+FD00025,79,2025-08-31,2025T3,Alta Renda,Tesouro Direto,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,23.049999999999997,25.0,0.0
+FD00026,283,2025-01-07,2025T3,Alta Renda,COE,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,16.2,3.0,0.0
+FD00027,341,2025-07-30,2025T3,Alta Renda,Carteira Administrada,App,5+ anos,7,Aplicativo poderia explicar melhor,2025Q3,6.0,1.0,0.0,,0.0,0.0
+FD00028,159,2025-11-08,2025T3,Private,CDB,Internet Banking,6-24 meses,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,,0.0,0.0,20.2,19.0,0.0
+FD00029,39,2025-07-23,2025T3,Varejo,Tesouro Direto,App,6-24 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,15.75,12.0,1.0
+FD00030,282,2025-08-20,2025T3,Alta Renda,Tesouro Direto,App,2-5 anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,26.4,10.0,0.0
+FD00031,228,2025-07-29,2025T3,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00032,315,2025-07-27,2025T3,Varejo,Fundos,Central de Atendimento,2-5 anos,8,Demorou um pouco para encontrar informacoes,2025Q3,,0.0,0.0,,0.0,0.0
+FD00033,410,2025-07-08,2025T3,Private,Fundos,Assessoria,2-5 anos,7,Demorou um pouco para encontrar informacoes,2025Q3,7.0,1.0,0.0,34.7,2.0,0.0
+FD00034,143,2025-07-29,2025T3,Alta Renda,Tesouro Direto,,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,17.2,3.0,0.0
+FD00035,290,2025-12-08,2025T3,Varejo,Fundos,Internet Banking,2-5 anos,7,Tive duvida sobre rentabilidade,2025Q3,,0.0,0.0,15.7,6.0,0.0
+FD00036,545,2025-09-28,2025T3,Varejo,COE,App,5+ anos,9,Consegui acompanhar minha carteira,2025Q3,7.0,1.0,1.0,20.9,9.0,0.0
+FD00037,58,2025-08-29,2025T3,Private,Fundos,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,10.299999999999999,14.0,0.0
+FD00038,146,2025-09-30,2025T3,Private,Carteira Administrada,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,26.4,8.0,1.0
+FD00039,203,2025-01-07,2025T3,Private,CDB,App,0-6 meses,8,Tive duvida sobre rentabilidade,2025Q3,,0.0,0.0,13.75,11.0,0.0
+FD00040,470,2025-08-24,2025T3,Novo Investidor,Carteira Administrada,App,6-24 meses,6,Nao consegui falar com assessor,2025Q3,,0.0,0.0,42.5,15.0,0.0
+FD00041,264,2025-07-26,2025T3,Alta Renda,Tesouro Direto,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,18.3,2.0,0.0
+FD00042,211,2025-03-08,2025T3,Alta Renda,Tesouro Direto,Central de Atendimento,5+ anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,24.6,3.0,0.0
+FD00043,49,2025-08-21,2025T3,Alta Renda,CDB,Central de Atendimento,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,9.0,1.0,0.0,19.05,7.0,0.0
+FD00044,44,2025-09-23,2025T3,Novo Investidor,Tesouro Direto,Internet Banking,2-5 anos,7,Demorou um pouco para encontrar informacoes,2025Q3,,0.0,1.0,44.5,6.0,0.0
+FD00045,412,2025-08-18,2025T3,Novo Investidor,Tesouro Direto,Internet Banking,6-24 meses,5,Informacoes divergentes sobre o produto,2025Q3,6.0,1.0,0.0,38.7,4.0,0.0
+FD00046,50,2025-07-30,2025T3,Private,Tesouro Direto,App,6-24 meses,9,Boa experiencia no aplicativo,2025Q3,8.0,1.0,0.0,3.6,8.0,0.0
+FD00047,529,2025-08-16,2025T3,Private,Tesouro Direto,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,6.25,20.0,0.0
+FD00048,195,2025-08-07,2025T3,Alta Renda,Tesouro Direto,App,5+ anos,9,Assessoria ajudou na decisao,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00049,409,2025-09-25,2025T3,Novo Investidor,Tesouro Direto,App,5+ anos,7,"Atendimento resolveu, mas demorou",2025Q3,,0.0,0.0,33.4,7.0,0.0
+FD00050,121,2025-09-25,2025T3,Varejo,Carteira Administrada,App,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,1.0,38.3,8.0,0.0
+FD00051,112,2025-08-07,2025T3,Private,CDB,Assessoria,0-6 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00052,520,2025-06-08,2025T3,Private,Fundos,Assessoria,0-6 meses,7,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,,0.0,0.0
+FD00053,254,2025-09-23,2025T3,Alta Renda,Tesouro Direto,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,8.0,1.0,0.0,12.175,36.0,0.0
+FD00054,373,2025-07-20,2025T3,Private,Fundos,App,6-24 meses,8,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,5.7,15.0,0.0
+FD00055,328,2025-09-07,2025T3,Varejo,Tesouro Direto,App,6-24 meses,7,Demorou um pouco para encontrar informacoes,2025Q3,,0.0,0.0,,0.0,0.0
+FD00056,180,2025-08-28,2025T3,Private,COE,Assessoria,5+ anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,48.7,5.0,0.0
+FD00057,414,2025-07-25,2025T3,Varejo,Tesouro Direto,App,6-24 meses,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,,0.0,0.0
+FD00058,72,2025-09-25,2025T3,Private,Carteira Administrada,Central de Atendimento,2-5 anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00059,94,2025-06-08,2025T3,Varejo,Tesouro Direto,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00060,514,2025-06-07,2025T3,Varejo,CDB,App,2-5 anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,13.1,11.0,0.0
+FD00061,372,2025-09-23,2025T3,Private,Fundos,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,26.2,8.0,1.0
+FD00062,61,2025-05-08,2025T3,Alta Renda,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q3,,0.0,1.0,35.8,11.0,0.0
+FD00063,335,2025-08-23,2025T3,Private,Carteira Administrada,App,2-5 anos,8,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,28.6,9.0,1.0
+FD00064,383,2025-07-20,2025T3,Varejo,COE,Assessoria,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,19.85,9.0,0.0
+FD00065,219,2025-04-09,2025T3,Varejo,Carteira Administrada,Central de Atendimento,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,25.7,4.0,0.0
+FD00066,7,2025-08-08,2025T3,Private,Fundos,App,0-6 meses,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,3.4,4.0,0.0
+FD00067,493,2025-08-13,2025T3,Private,CDB,Central de Atendimento,5+ anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,16.75,10.0,0.0
+FD00068,365,2025-09-18,2025T3,Novo Investidor,Carteira Administrada,Internet Banking,5+ anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00069,258,2025-07-25,2025T3,Varejo,Carteira Administrada,Internet Banking,5+ anos,8,"Atendimento resolveu, mas demorou",2025Q3,,0.0,0.0,46.2,5.0,0.0
+FD00070,147,2025-07-16,2025T3,Varejo,Fundos,App,5+ anos,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,32.3,6.0,0.0
+FD00071,5,2025-09-07,2025T3,Private,Fundos,Central de Atendimento,6-24 meses,10,,2025Q3,10.0,1.0,0.0,29.96666666666667,25.0,1.0
+FD00072,457,2025-07-18,2025T3,Private,Tesouro Direto,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,10.0,1.0,1.0,28.8,9.0,0.0
+FD00073,404,2025-03-07,2025T3,Varejo,Fundos,App,2-5 anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00074,287,2025-09-24,2025T3,Alta Renda,Fundos,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,20.4,9.0,0.0
+FD00075,178,2025-11-08,2025T3,Alta Renda,Carteira Administrada,Internet Banking,5+ anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,53.7,7.0,0.0
+FD00076,333,2025-08-15,2025T3,Private,CDB,App,6-24 meses,1,Demora para resolver meu problema,2025Q3,,0.0,0.0,17.6,11.0,0.0
+FD00077,436,2025-10-07,2025T3,Varejo,Tesouro Direto,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,10.0,1.0,1.0,27.4,6.0,0.0
+FD00078,1,2025-07-30,2025T3,Alta Renda,Tesouro Direto,Assessoria,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q3,10.0,1.0,0.0,23.200000000000003,10.0,0.0
+FD00079,271,2025-07-15,2025T3,Varejo,Fundos,App,6-24 meses,1,Nao consegui falar com assessor,2025Q3,,0.0,0.0,,0.0,0.0
+FD00080,10,2025-08-09,2025T3,Varejo,CDB,Central de Atendimento,5+ anos,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,6.0,1.0,0.0,20.5,7.0,0.0
+FD00081,297,2025-04-07,2025T3,Varejo,Fundos,Central de Atendimento,6-24 meses,6,Informacoes divergentes sobre o produto,2025Q3,,0.0,0.0,,0.0,0.0
+FD00082,242,2025-08-26,2025T3,Novo Investidor,Fundos,Internet Banking,6-24 meses,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00083,202,2025-08-18,2025T3,Private,Fundos,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,6.6,10.0,0.0
+FD00084,79,2025-07-17,2025T3,Alta Renda,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,23.049999999999997,25.0,0.0
+FD00085,390,2025-07-14,2025T3,Varejo,CDB,App,5+ anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00086,496,2025-09-14,2025T3,Alta Renda,Tesouro Direto,App,0-6 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,18.0,9.0,0.0
+FD00087,106,2025-07-08,2025T3,Private,COE,Assessoria,6-24 meses,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,21.1,4.0,0.0
+FD00088,439,2025-07-09,2025T3,Varejo,Tesouro Direto,App,5+ anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,25.7,14.0,0.0
+FD00089,214,2025-09-08,2025T3,Private,Carteira Administrada,App,2-5 anos,8,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,27.4,6.0,0.0
+FD00090,398,2025-08-28,2025T3,Alta Renda,CDB,Assessoria,5+ anos,8,Tive duvida sobre rentabilidade,2025Q3,,0.0,0.0,25.1,6.0,0.0
+FD00091,436,2025-07-08,2025T3,Varejo,Carteira Administrada,Internet Banking,6-24 meses,8,Tive duvida sobre rentabilidade,2025Q3,10.0,1.0,1.0,27.4,6.0,0.0
+FD00092,266,2025-01-08,2025T3,Varejo,COE,App,6-24 meses,0,Nao consegui falar com assessor,2025Q3,,0.0,0.0,,0.0,0.0
+FD00093,545,2025-08-08,2025T3,Varejo,CDB,Assessoria,6-24 meses,7,Demorou um pouco para encontrar informacoes,2025Q3,7.0,1.0,1.0,20.9,9.0,0.0
+FD00094,381,2025-02-09,2025T3,Private,Tesouro Direto,Internet Banking,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,10.0,1.0,0.0,,0.0,0.0
+FD00095,374,2025-01-09,2025T3,Varejo,CDB,Assessoria,6-24 meses,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,15.3,3.0,0.0
+FD00096,206,2025-06-09,2025T3,Private,Fundos,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00097,68,2025-09-20,2025T3,Varejo,CDB,Internet Banking,5+ anos,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,8.0,6.0,0.0
+FD00098,34,2025-07-07,2025T3,Novo Investidor,COE,Assessoria,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00099,445,2025-08-15,2025T3,Varejo,Tesouro Direto,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,24.4,9.0,0.0
+FD00100,533,2025-09-13,2025T3,Novo Investidor,CDB,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00101,6,2025-08-25,2025T3,Private,Fundos,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2025Q3,,0.0,1.0,28.3,3.0,0.0
+FD00102,54,2025-03-07,2025T3,Novo Investidor,Tesouro Direto,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00103,57,2025-07-24,2025T3,Private,Fundos,Assessoria,6-24 meses,10,Atendimento claro e rapido,2025Q3,10.0,2.0,1.0,19.566666666666666,16.0,0.0
+FD00104,273,2025-08-22,2025T3,Varejo,Tesouro Direto,Central de Atendimento,0-6 meses,10,Atendimento claro e rapido,2025Q3,9.0,1.0,2.0,39.0,2.0,0.0
+FD00105,480,2025-07-24,2025T3,Alta Renda,Tesouro Direto,App,5+ anos,7,Tive duvida sobre rentabilidade,2025Q3,7.0,1.0,0.0,,0.0,0.0
+FD00106,270,2025-09-22,2025T3,Alta Renda,Carteira Administrada,App,6-24 meses,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,29.35,17.0,0.0
+FD00107,174,2025-09-26,2025T3,Private,Tesouro Direto,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00108,140,2025-07-08,2025T3,Novo Investidor,CDB,App,6-24 meses,7,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,33.0,8.0,1.0
+FD00109,468,2025-09-26,2025T3,Varejo,Carteira Administrada,Assessoria,0-6 meses,10,,2025Q3,10.0,1.0,0.0,23.4,6.0,0.0
+FD00110,203,2025-02-08,2025T3,Private,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,13.75,11.0,0.0
+FD00111,357,2025-02-08,2025T3,Private,Tesouro Direto,App,5+ anos,9,Boa experiencia no aplicativo,2025Q3,9.0,1.0,0.0,12.2,14.0,0.0
+FD00112,90,2025-07-15,2025T3,Alta Renda,Tesouro Direto,Central de Atendimento,6-24 meses,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,20.4,7.0,0.0
+FD00113,375,2025-06-07,2025T3,Private,CDB,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,26.1,16.0,0.0
+FD00114,398,2025-09-22,2025T3,Alta Renda,CDB,Central de Atendimento,6-24 meses,5,Nao consegui falar com assessor,2025Q3,,0.0,0.0,25.1,6.0,0.0
+FD00115,383,2025-07-26,2025T3,Varejo,CDB,Assessoria,2-5 anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,19.85,9.0,0.0
+FD00116,78,2025-12-07,2025T3,Private,CDB,App,0-6 meses,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00117,332,2025-08-22,2025T3,Varejo,CDB,Central de Atendimento,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,1.0,6.0,1.0
+FD00118,98,2025-08-28,2025T3,Alta Renda,Fundos,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,46.1,7.0,0.0
+FD00119,159,2025-09-14,2025T3,Private,Fundos,App,0-6 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,20.2,19.0,0.0
+FD00120,500,2025-07-20,2025T3,Novo Investidor,Tesouro Direto,Assessoria,2-5 anos,8,"Atendimento resolveu, mas demorou",2025Q3,7.0,1.0,0.0,36.9,7.0,0.0
+FD00121,130,2025-04-09,2025T3,Alta Renda,Tesouro Direto,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,9.2,9.0,0.0
+FD00122,166,2025-03-07,2025T3,Varejo,Fundos,Central de Atendimento,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,,0.0,0.0
+FD00123,382,2025-09-25,2025T3,Varejo,Fundos,App,2-5 anos,8,Tive duvida sobre rentabilidade,2025Q3,,0.0,0.0,,0.0,0.0
+FD00124,66,2025-08-29,2025T3,Alta Renda,Tesouro Direto,App,6-24 meses,9,Assessoria ajudou na decisao,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00125,517,2025-09-27,2025T3,Alta Renda,Fundos,Internet Banking,5+ anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,15.8,5.0,0.0
+FD00126,38,2025-08-14,2025T3,Private,Fundos,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,21.6,4.0,0.0
+FD00127,11,2025-09-14,2025T3,Private,Carteira Administrada,App,5+ anos,9,Atendimento claro e rapido,2025Q3,8.0,1.0,1.0,44.3,9.0,0.0
+FD00128,232,2025-09-22,2025T3,Alta Renda,CDB,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,13.8,6.0,0.0
+FD00129,387,2025-08-25,2025T3,Alta Renda,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,6.9,8.0,0.0
+FD00130,389,2025-06-08,2025T3,Varejo,CDB,App,5+ anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,19.9,12.0,0.0
+FD00131,354,2025-08-20,2025T3,Private,CDB,App,0-6 meses,4,Nao entendi a cobranca,2025Q3,7.5,2.0,0.0,18.7,8.0,1.0
+FD00132,142,2025-08-19,2025T3,Private,COE,Central de Atendimento,5+ anos,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,15.0,4.0,0.0
+FD00133,1,2025-07-23,2025T3,Alta Renda,CDB,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,23.200000000000003,10.0,0.0
+FD00134,214,2025-01-07,2025T3,Private,Fundos,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,27.4,6.0,0.0
+FD00135,238,2025-09-28,2025T3,Private,CDB,Central de Atendimento,6-24 meses,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,,0.0,0.0
+FD00136,516,2025-09-29,2025T3,Private,CDB,Assessoria,5+ anos,8,"Atendimento resolveu, mas demorou",2025Q3,,0.0,0.0,2.3,3.0,0.0
+FD00137,138,2025-07-09,2025T3,Varejo,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,9.0,1.0,0.0,16.2,17.0,0.0
+FD00138,283,2025-09-27,2025T3,Alta Renda,CDB,Internet Banking,5+ anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,16.2,3.0,0.0
+FD00139,55,2025-04-07,2025T3,Varejo,Fundos,Assessoria,2-5 anos,4,Aplicativo travou durante consulta,2025Q3,,0.0,0.0,,0.0,0.0
+FD00140,436,2025-09-26,2025T3,Varejo,Fundos,Assessoria,6-24 meses,10,Atendimento claro e rapido,2025Q3,10.0,1.0,1.0,27.4,6.0,0.0
+FD00141,267,2025-07-19,2025T3,Varejo,Tesouro Direto,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2025Q3,10.0,1.0,0.0,28.7,4.0,0.0
+FD00142,47,2025-10-09,2025T3,Alta Renda,CDB,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00143,449,2025-08-09,2025T3,Alta Renda,Tesouro Direto,App,5+ anos,7,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,38.5,11.0,0.0
+FD00144,422,2025-07-15,2025T3,Varejo,CDB,App,6-24 meses,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,17.5,12.0,0.0
+FD00145,49,2025-09-18,2025T3,Alta Renda,Fundos,Internet Banking,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,9.0,1.0,0.0,19.05,7.0,0.0
+FD00146,76,2025-09-24,2025T3,Varejo,CDB,Central de Atendimento,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00147,57,2025-07-28,2025T3,Private,Fundos,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,10.0,2.0,1.0,19.566666666666666,16.0,0.0
+FD00148,57,2025-09-27,2025T3,Private,Fundos,Internet Banking,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,10.0,2.0,1.0,19.566666666666666,16.0,0.0
+FD00149,355,2025-11-08,2025T3,Private,Carteira Administrada,Assessoria,6-24 meses,9,Atendimento claro e rapido,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00150,519,2025-08-14,2025T3,Novo Investidor,Tesouro Direto,App,2-5 anos,7,Tive duvida sobre rentabilidade,2025Q3,8.0,1.0,0.0,18.3,13.0,0.0
+FD00151,532,2025-09-07,2025T3,Novo Investidor,Fundos,Assessoria,2-5 anos,3,Aplicativo travou durante consulta,2025Q3,,0.0,0.0,,0.0,0.0
+FD00152,32,2025-09-29,2025T3,Private,Tesouro Direto,Central de Atendimento,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,1.0,29.9,15.0,0.0
+FD00153,62,2025-05-08,2025T3,Private,Carteira Administrada,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q3,8.0,1.0,0.0,54.4,9.0,0.0
+FD00154,534,2025-07-21,2025T3,Alta Renda,CDB,App,0-6 meses,7,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,17.25,15.0,0.0
+FD00155,286,2025-09-16,2025T3,Private,Fundos,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,10.1,8.0,0.0
+FD00156,169,2025-11-08,2025T3,Private,CDB,App,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,33.9,7.0,0.0
+FD00157,213,2025-09-28,2025T3,Varejo,Fundos,Central de Atendimento,6-24 meses,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,21.5,3.0,0.0
+FD00158,409,2025-11-09,2025T3,Novo Investidor,Fundos,App,6-24 meses,8,Tive duvida sobre rentabilidade,2025Q3,,0.0,0.0,33.4,7.0,0.0
+FD00159,255,2025-05-07,2025T3,Private,Tesouro Direto,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,26.7,8.0,0.0
+FD00160,267,2025-08-27,2025T3,Varejo,CDB,Internet Banking,6-24 meses,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,10.0,1.0,0.0,28.7,4.0,0.0
+FD00161,8,2025-07-30,2025T3,Varejo,COE,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,28.5,18.0,0.0
+FD00162,534,2025-08-24,2025T3,Alta Renda,CDB,Central de Atendimento,2-5 anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,17.25,15.0,0.0
+FD00163,58,2025-09-22,2025T3,Private,Tesouro Direto,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,10.299999999999999,14.0,0.0
+FD00164,195,2025-03-09,2025T3,Alta Renda,CDB,Central de Atendimento,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00165,254,2025-07-16,2025T3,Alta Renda,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,8.0,1.0,0.0,12.175,36.0,0.0
+FD00166,313,2025-09-23,2025T3,Private,CDB,App,6-24 meses,9,Atendimento claro e rapido,2025Q3,9.0,1.0,0.0,7.1,12.0,1.0
+FD00167,203,2025-09-20,2025T3,Private,Tesouro Direto,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,13.75,11.0,0.0
+FD00168,262,2025-08-18,2025T3,Novo Investidor,Tesouro Direto,Central de Atendimento,0-6 meses,3,Demora para resolver meu problema,2025Q3,,0.0,0.0,30.5,6.0,0.0
+FD00169,358,2025-09-18,2025T3,Varejo,Tesouro Direto,Assessoria,6-24 meses,6,Aplicativo travou durante consulta,2025Q3,,0.0,0.0,10.5,4.0,0.0
+FD00170,261,2025-09-16,2025T3,Varejo,Tesouro Direto,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q3,10.0,1.0,0.0,,0.0,0.0
+FD00171,535,2025-07-14,2025T3,Varejo,Carteira Administrada,App,0-6 meses,6,Aplicativo travou durante consulta,2025Q3,,0.0,0.0,,0.0,0.0
+FD00172,8,2025-07-13,2025T3,Varejo,Carteira Administrada,App,6-24 meses,6,Nao ficou claro o risco do produto,2025Q3,10.0,1.0,0.0,28.5,18.0,0.0
+FD00173,515,2025-01-08,2025T3,Private,CDB,App,0-6 meses,5,Informacoes divergentes sobre o produto,2025Q3,6.0,1.0,0.0,29.35,23.0,0.0
+FD00174,97,2025-01-08,2025T3,Alta Renda,COE,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,41.15,12.0,1.0
+FD00175,254,2025-10-07,2025T3,Alta Renda,Fundos,App,6-24 meses,10,Atendimento claro e rapido,2025Q3,8.0,1.0,0.0,12.175,36.0,0.0
+FD00176,98,2025-09-07,2025T3,Alta Renda,Fundos,Internet Banking,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,46.1,7.0,0.0
+FD00177,129,2025-04-07,2025T3,Private,Tesouro Direto,App,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,,0.0,0.0
+FD00178,235,2025-07-08,2025T3,Private,CDB,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00179,172,2025-09-30,2025T3,Private,Carteira Administrada,App,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,,0.0,1.0,32.5,6.0,0.0
+FD00180,169,2025-07-21,2025T3,Private,Tesouro Direto,Central de Atendimento,0-6 meses,9,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,33.9,7.0,0.0
+FD00181,459,2025-09-23,2025T3,Private,Fundos,App,5+ anos,9,Assessoria ajudou na decisao,2025Q3,9.0,1.0,0.0,25.05,13.0,0.0
+FD00182,247,2025-08-29,2025T3,Alta Renda,CDB,App,2-5 anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,20.4,12.0,0.0
+FD00183,86,2025-09-20,2025T3,Alta Renda,CDB,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,9.0,1.0,0.0,10.7,7.0,1.0
+FD00184,269,2025-02-09,2025T3,Alta Renda,Tesouro Direto,App,2-5 anos,10,Atendimento claro e rapido,2025Q3,,0.0,0.0,16.3,11.0,0.0
+FD00185,5,2025-08-27,2025T3,Private,Fundos,App,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,10.0,1.0,0.0,29.96666666666667,25.0,1.0
+FD00186,115,2025-08-18,2025T3,Varejo,Carteira Administrada,App,2-5 anos,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,,0.0,0.0
+FD00187,133,2025-08-07,2025T3,Private,Tesouro Direto,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q3,10.0,1.0,0.0,32.5,5.0,0.0
+FD00188,515,2025-05-07,2025T3,Private,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q3,6.0,1.0,0.0,29.35,23.0,0.0
+FD00189,527,2025-07-28,2025T3,Alta Renda,Tesouro Direto,Central de Atendimento,6-24 meses,6,Nao entendi a cobranca,2025Q3,,0.0,0.0,,0.0,0.0
+FD00190,103,2025-09-30,2025T3,Alta Renda,Fundos,Assessoria,5+ anos,9,Atendimento claro e rapido,2025Q3,,0.0,1.0,53.9,5.0,0.0
+FD00191,128,2025-05-08,2025T3,Varejo,CDB,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00192,31,2025-07-21,2025T3,Varejo,Fundos,App,0-6 meses,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,1.0,9.0,0.0
+FD00193,522,2025-01-08,2025T3,Alta Renda,CDB,App,2-5 anos,5,Demora para resolver meu problema,2025Q3,,0.0,0.0,10.0,12.0,0.0
+FD00194,375,2025-08-28,2025T3,Private,Tesouro Direto,Central de Atendimento,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,26.1,16.0,0.0
+FD00195,40,2025-08-20,2025T3,Alta Renda,CDB,App,5+ anos,5,Informacoes divergentes sobre o produto,2025Q3,,0.0,0.0,15.2,12.0,0.0
+FD00196,299,2025-08-16,2025T3,Varejo,CDB,Assessoria,6-24 meses,6,Nao entendi a cobranca,2025Q3,6.0,1.0,0.0,10.6,3.0,0.0
+FD00197,293,2025-09-13,2025T3,Varejo,Tesouro Direto,Assessoria,6-24 meses,8,Tive duvida sobre rentabilidade,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00198,218,2025-09-23,2025T3,Varejo,CDB,App,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,,0.0,0.0,,0.0,0.0
+FD00199,290,2025-12-08,2025T3,Varejo,CDB,App,2-5 anos,8,Aplicativo poderia explicar melhor,2025Q3,,0.0,0.0,15.7,6.0,0.0
+FD00200,337,2025-07-25,2025T3,Varejo,Fundos,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q3,8.0,1.0,1.0,29.2,5.0,0.0
+FD00201,129,2025-03-09,2025T3,Private,Tesouro Direto,App,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00202,133,2025-08-15,2025T3,Private,Carteira Administrada,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q3,10.0,1.0,0.0,32.5,5.0,0.0
+FD00203,369,2025-09-28,2025T3,Private,Tesouro Direto,Assessoria,5+ anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,15.350000000000001,14.0,1.0
+FD00204,163,2025-07-16,2025T3,Varejo,CDB,Assessoria,0-6 meses,8,Demorou um pouco para encontrar informacoes,2025Q3,,0.0,0.0,16.5,4.0,0.0
+FD00205,369,2025-07-20,2025T3,Private,Carteira Administrada,Central de Atendimento,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,15.350000000000001,14.0,1.0
+FD00206,216,2025-12-09,2025T3,Private,CDB,Internet Banking,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00207,98,2025-07-14,2025T3,Alta Renda,Carteira Administrada,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,46.1,7.0,0.0
+FD00208,30,2025-07-30,2025T3,Private,CDB,Internet Banking,5+ anos,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,,0.0,0.0
+FD00209,180,2025-09-14,2025T3,Private,Carteira Administrada,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,48.7,5.0,0.0
+FD00210,379,2025-08-24,2025T3,Varejo,Fundos,App,2-5 anos,9,Consegui acompanhar minha carteira,2025Q3,9.0,1.0,0.0,,0.0,0.0
+FD00211,263,2025-08-26,2025T3,Private,Tesouro Direto,App,5+ anos,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,,0.0,0.0
+FD00212,201,2025-08-09,2025T3,Varejo,Tesouro Direto,Internet Banking,5+ anos,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,8.0,1.0,0.0,2.6,4.0,0.0
+FD00213,537,2025-10-07,2025T3,Varejo,Fundos,Central de Atendimento,6-24 meses,10,Boa experiencia no aplicativo,2025Q3,,0.0,0.0,13.6,8.0,1.0
+FD00214,354,2025-08-20,2025T3,Private,CDB,Assessoria,5+ anos,10,Consegui acompanhar minha carteira,2025Q3,7.5,2.0,0.0,18.7,8.0,1.0
+FD00215,226,2025-08-18,2025T3,Private,Tesouro Direto,Assessoria,6-24 meses,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,,0.0,0.0,10.5,4.0,0.0
+FD00216,257,2025-04-08,2025T3,Novo Investidor,Fundos,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,10.0,1.0,0.0,,0.0,0.0
+FD00217,525,2025-07-31,2025T3,Varejo,Fundos,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q3,8.0,1.0,0.0,,0.0,0.0
+FD00218,376,2025-07-07,2025T3,Alta Renda,CDB,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00219,359,2025-09-15,2025T3,Novo Investidor,CDB,App,6-24 meses,7,"Experiencia ok, mas poderia ser mais simples",2025Q3,7.0,1.0,0.0,14.5,14.0,0.0
+FD00220,99,2025-07-21,2025T3,Private,Carteira Administrada,,2-5 anos,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,26.3,11.0,0.0
+FD00221,154,2025-07-20,2025T3,Alta Renda,Tesouro Direto,Assessoria,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,,0.0,0.0
+FD00222,222,2025-06-08,2025T3,Varejo,Tesouro Direto,Assessoria,5+ anos,8,"Experiencia ok, mas poderia ser mais simples",2025Q3,,0.0,0.0,38.4,4.0,0.0
+FD00223,84,2025-09-27,2025T3,Private,Fundos,App,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,21.7,8.0,0.0
+FD00224,446,2025-09-09,2025T3,Novo Investidor,CDB,App,2-5 anos,7,Demorou um pouco para encontrar informacoes,2025Q3,,0.0,0.0,19.1,13.0,0.0
+FD00225,296,2025-08-08,2025T3,Alta Renda,COE,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q3,,0.0,0.0,18.9,12.0,1.0
+FD00226,478,2025-02-07,2025T3,Alta Renda,CDB,App,2-5 anos,9,Atendimento claro e rapido,2025Q3,,0.0,0.0,,0.0,0.0
+FD00227,336,2025-09-14,2025T3,Private,CDB,Assessoria,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q3,,0.0,0.0,21.5,3.0,0.0
+FD00228,167,2025-02-09,2025T3,Alta Renda,Carteira Administrada,App,6-24 meses,10,Consegui acompanhar minha carteira,2025Q3,,0.0,0.0,31.7,5.0,0.0
+FD00229,39,2025-09-23,2025T3,Varejo,Fundos,Assessoria,2-5 anos,7,"Atendimento resolveu, mas demorou",2025Q3,,0.0,0.0,15.75,12.0,1.0
+FD00230,5,2025-01-09,2025T3,Private,CDB,Central de Atendimento,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q3,10.0,1.0,0.0,29.96666666666667,25.0,1.0
+FD00231,493,2025-08-11,2025T4,Private,Tesouro Direto,App,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,9.0,1.0,0.0,,0.0,0.0
+FD00232,299,2025-12-13,2025T4,Varejo,Tesouro Direto,Assessoria,0-6 meses,3,Nao consegui falar com assessor,2025Q4,,0.0,0.0,,0.0,0.0
+FD00233,64,2025-10-15,2025T4,Alta Renda,Fundos,App,5+ anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,1.0,29.4,5.0,0.0
+FD00234,296,2025-03-10,2025T4,Alta Renda,CDB,Internet Banking,6-24 meses,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00235,281,2025-08-10,2025T4,Novo Investidor,CDB,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q4,8.0,1.0,0.0,15.0,11.0,0.0
+FD00236,266,2025-01-11,2025T4,Varejo,CDB,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00237,272,2025-10-30,2025T4,Varejo,Tesouro Direto,Central de Atendimento,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,11.2,4.0,0.0
+FD00238,245,2025-10-25,2025T4,Private,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,2.0,75.5,15.0,0.0
+FD00239,106,2025-12-31,2025T4,Private,Carteira Administrada,App,5+ anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,16.8,8.0,1.0
+FD00240,347,2025-11-16,2025T4,Varejo,Fundos,Internet Banking,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,34.5,23.0,0.0
+FD00241,148,2025-10-21,2025T4,Alta Renda,CDB,Assessoria,0-6 meses,7,Aplicativo poderia explicar melhor,2025Q4,,0.0,0.0,35.8,11.0,0.0
+FD00242,529,2025-12-21,2025T4,Private,Fundos,App,2-5 anos,8,Demorou um pouco para encontrar informacoes,2025Q4,,0.0,0.0,8.6,18.0,1.0
+FD00243,332,2025-10-15,2025T4,Varejo,Fundos,,6-24 meses,7,Aplicativo poderia explicar melhor,2025Q4,7.0,1.0,0.0,,0.0,0.0
+FD00244,5,2025-11-16,2025T4,Private,Fundos,App,0-6 meses,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00245,250,2025-04-10,2025T4,Varejo,CDB,Assessoria,5+ anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00246,375,2025-10-14,2025T4,Private,Tesouro Direto,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,,0.0,0.0
+FD00247,292,2025-06-10,2025T4,Private,Carteira Administrada,App,2-5 anos,8,,2025Q4,,0.0,0.0,40.55,13.0,1.0
+FD00248,416,2025-11-12,2025T4,Alta Renda,CDB,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00249,195,2025-10-14,2025T4,Alta Renda,Carteira Administrada,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,22.333333333333332,23.0,0.0
+FD00250,434,2025-12-12,2025T4,Private,Carteira Administrada,App,5+ anos,8,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,45.7,11.0,0.0
+FD00251,89,2025-10-19,2025T4,Novo Investidor,Fundos,Internet Banking,5+ anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,26.85,12.0,0.0
+FD00252,461,2025-03-12,2025T4,Private,Fundos,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,25.9,6.0,1.0
+FD00253,300,2025-10-11,2025T4,Private,Carteira Administrada,App,0-6 meses,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00254,242,2025-11-24,2025T4,Novo Investidor,Carteira Administrada,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,35.5,4.0,0.0
+FD00255,201,2025-12-24,2025T4,Varejo,CDB,App,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,10.0,1.0,0.0,1.0,14.0,0.0
+FD00256,124,2025-11-30,2025T4,Private,Carteira Administrada,Internet Banking,0-6 meses,9,Atendimento claro e rapido,2025Q4,9.0,1.0,1.0,41.5,10.0,1.0
+FD00257,39,2025-09-11,2025T4,Varejo,CDB,Central de Atendimento,6-24 meses,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00258,444,2025-10-21,2025T4,Alta Renda,Fundos,Internet Banking,2-5 anos,7,Aplicativo poderia explicar melhor,2025Q4,,0.0,0.0,6.199999999999999,12.0,0.0
+FD00259,65,2025-10-22,2025T4,Alta Renda,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,23.9,10.0,0.0
+FD00260,428,2025-11-12,2025T4,Novo Investidor,CDB,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,18.1,13.0,0.0
+FD00261,159,2025-08-10,2025T4,Private,CDB,App,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00262,458,2025-11-17,2025T4,Alta Renda,Tesouro Direto,App,6-24 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,26.6,10.0,0.0
+FD00263,203,2025-12-11,2025T4,Private,Tesouro Direto,App,5+ anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00264,6,2025-11-23,2025T4,Private,Tesouro Direto,App,5+ anos,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,9.8,11.0,1.0
+FD00265,398,2025-08-11,2025T4,Alta Renda,CDB,,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,17.1,4.0,0.0
+FD00266,150,2025-11-14,2025T4,Private,Fundos,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,1.0,42.0,11.0,0.0
+FD00267,427,2025-02-11,2025T4,Alta Renda,Tesouro Direto,Central de Atendimento,5+ anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00268,513,2025-11-16,2025T4,Novo Investidor,Carteira Administrada,App,0-6 meses,7,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,44.5,5.0,0.0
+FD00269,111,2025-12-21,2025T4,Alta Renda,Fundos,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,14.2,11.0,0.0
+FD00270,126,2025-10-11,2025T4,Alta Renda,Fundos,Central de Atendimento,5+ anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,15.3,5.0,0.0
+FD00271,544,2025-12-21,2025T4,Varejo,Fundos,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,18.7,10.0,0.0
+FD00272,520,2025-07-11,2025T4,Private,CDB,App,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,27.2,9.0,0.0
+FD00273,314,2025-11-24,2025T4,Novo Investidor,Carteira Administrada,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,31.9,11.0,0.0
+FD00274,459,2025-07-11,2025T4,Private,CDB,Internet Banking,5+ anos,10,,2025Q4,,0.0,0.0,18.7,3.0,1.0
+FD00275,439,2025-10-30,2025T4,Varejo,Tesouro Direto,Internet Banking,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,24.7,3.0,0.0
+FD00276,147,2025-12-14,2025T4,Varejo,Carteira Administrada,Assessoria,2-5 anos,4,Nao ficou claro o risco do produto,2025Q4,3.0,1.0,1.0,43.7,0.0,0.0
+FD00277,444,2025-11-25,2025T4,Alta Renda,Fundos,Internet Banking,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,6.199999999999999,12.0,0.0
+FD00278,221,2025-12-13,2025T4,Varejo,CDB,Assessoria,2-5 anos,4,,2025Q4,3.0,1.0,0.0,,0.0,0.0
+FD00279,524,2025-07-11,2025T4,Varejo,Tesouro Direto,App,5+ anos,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00280,488,2025-11-19,2025T4,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,31.6,5.0,1.0
+FD00281,202,2025-03-12,2025T4,Private,Tesouro Direto,Central de Atendimento,6-24 meses,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00282,411,2025-06-11,2025T4,Alta Renda,Tesouro Direto,App,5+ anos,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,29.4,4.0,1.0
+FD00283,276,2025-12-16,2025T4,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,8,Tive duvida sobre rentabilidade,2025Q4,9.0,1.0,0.0,20.6,14.0,1.0
+FD00284,223,2025-11-18,2025T4,Private,CDB,Central de Atendimento,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,10.0,2.0,0.0,34.25,7.0,0.0
+FD00285,291,2025-11-20,2025T4,Private,CDB,Assessoria,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,37.1,6.0,0.0
+FD00286,79,2025-01-10,2025T4,Alta Renda,Fundos,App,2-5 anos,7,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,,0.0,0.0
+FD00287,125,2025-10-17,2025T4,Private,Tesouro Direto,Internet Banking,2-5 anos,9,,2025Q4,,0.0,0.0,31.6,0.0,0.0
+FD00288,336,2025-08-10,2025T4,Private,Tesouro Direto,Assessoria,0-6 meses,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00289,195,2025-11-10,2025T4,Alta Renda,Fundos,App,6-24 meses,6,Nao entendi a cobranca,2025Q4,,0.0,0.0,22.333333333333332,23.0,0.0
+FD00290,393,2025-11-25,2025T4,Alta Renda,CDB,Assessoria,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,6.9,6.0,0.0
+FD00291,273,2025-11-21,2025T4,Varejo,COE,App,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q4,10.0,1.0,1.0,20.9,14.0,0.0
+FD00292,429,2025-10-15,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,11.3,13.0,0.0
+FD00293,54,2025-12-31,2025T4,Novo Investidor,Tesouro Direto,Internet Banking,5+ anos,4,Demora para resolver meu problema,2025Q4,,0.0,0.0,41.2,7.0,0.0
+FD00294,347,2025-11-14,2025T4,Varejo,Fundos,Central de Atendimento,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,34.5,23.0,0.0
+FD00295,482,2025-10-13,2025T4,Varejo,Carteira Administrada,App,5+ anos,4,Nao ficou claro o risco do produto,2025Q4,,0.0,0.0,,0.0,0.0
+FD00296,15,2025-06-12,2025T4,Private,Fundos,Assessoria,2-5 anos,7,Aplicativo poderia explicar melhor,2025Q4,,0.0,0.0,,0.0,0.0
+FD00297,335,2025-11-25,2025T4,Private,Tesouro Direto,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,10.0,2.0,0.0,,0.0,0.0
+FD00298,4,2025-10-30,2025T4,Varejo,COE,App,0-6 meses,1,Informacoes divergentes sobre o produto,2025Q4,,0.0,0.0,22.5,11.0,0.0
+FD00299,259,2025-05-10,2025T4,Varejo,Carteira Administrada,Assessoria,5+ anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00300,347,2025-03-11,2025T4,Varejo,Carteira Administrada,Internet Banking,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,34.5,23.0,0.0
+FD00301,512,2025-11-29,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,22.8,9.0,0.0
+FD00302,200,2025-10-17,2025T4,Varejo,CDB,App,2-5 anos,5,Nao consegui falar com assessor,2025Q4,,0.0,2.0,39.4,8.0,0.0
+FD00303,200,2025-10-31,2025T4,Varejo,Fundos,App,6-24 meses,9,Consegui acompanhar minha carteira,2025Q4,,0.0,2.0,39.4,8.0,0.0
+FD00304,378,2025-11-22,2025T4,Private,Carteira Administrada,Central de Atendimento,5+ anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,15.9,11.0,1.0
+FD00305,25,2025-10-25,2025T4,Alta Renda,CDB,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00306,278,2025-11-21,2025T4,Varejo,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,27.15,11.0,0.0
+FD00307,144,2025-10-30,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,23.9,7.0,0.0
+FD00308,106,2025-12-21,2025T4,Private,Fundos,App,5+ anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,16.8,8.0,1.0
+FD00309,432,2025-10-26,2025T4,Varejo,CDB,App,2-5 anos,9,Atendimento claro e rapido,2025Q4,6.0,1.0,0.0,54.8,8.0,0.0
+FD00310,364,2025-11-13,2025T4,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,1.0,46.1,5.0,0.0
+FD00311,534,2025-11-13,2025T4,Alta Renda,CDB,App,2-5 anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00312,89,2025-11-20,2025T4,Novo Investidor,COE,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,26.85,12.0,0.0
+FD00313,116,2025-10-10,2025T4,Varejo,Tesouro Direto,App,0-6 meses,10,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00314,152,2025-07-12,2025T4,Private,Carteira Administrada,App,2-5 anos,9,Atendimento claro e rapido,2025Q4,9.0,1.0,0.0,,0.0,0.0
+FD00315,210,2025-11-17,2025T4,Private,CDB,Assessoria,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,18.4,4.0,0.0
+FD00316,272,2025-10-12,2025T4,Varejo,Tesouro Direto,App,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,11.2,4.0,0.0
+FD00317,424,2025-12-14,2025T4,Alta Renda,Carteira Administrada,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00318,278,2025-08-10,2025T4,Varejo,Carteira Administrada,Assessoria,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,27.15,11.0,0.0
+FD00319,236,2025-11-23,2025T4,Varejo,Tesouro Direto,Internet Banking,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,31.200000000000003,8.0,0.0
+FD00320,207,2025-11-22,2025T4,Private,CDB,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,13.9,4.0,0.0
+FD00321,384,2025-10-14,2025T4,Varejo,CDB,App,6-24 meses,9,,2025Q4,8.0,1.0,0.0,,0.0,0.0
+FD00322,503,2025-12-11,2025T4,Alta Renda,Tesouro Direto,App,5+ anos,9,Atendimento claro e rapido,2025Q4,9.0,1.0,0.0,13.05,12.0,0.0
+FD00323,313,2025-12-20,2025T4,Private,Tesouro Direto,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,20.25,12.0,1.0
+FD00324,56,2025-03-11,2025T4,Novo Investidor,CDB,App,6-24 meses,8,"Experiencia ok, mas poderia ser mais simples",2025Q4,7.0,1.0,0.0,,0.0,0.0
+FD00325,25,2025-11-26,2025T4,Alta Renda,Tesouro Direto,App,6-24 meses,9,Boa experiencia no aplicativo,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00326,168,2025-12-12,2025T4,Private,Tesouro Direto,Internet Banking,2-5 anos,6,Nao entendi a cobranca,2025Q4,,0.0,0.0,,0.0,0.0
+FD00327,511,2025-06-12,2025T4,Varejo,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,12.8,7.0,0.0
+FD00328,242,2025-04-10,2025T4,Novo Investidor,Fundos,App,5+ anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,35.5,4.0,0.0
+FD00329,472,2025-10-28,2025T4,Novo Investidor,Carteira Administrada,Central de Atendimento,2-5 anos,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,39.1,3.0,0.0
+FD00330,528,2025-11-14,2025T4,Private,Fundos,Internet Banking,6-24 meses,8,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,,0.0,0.0
+FD00331,470,2025-04-12,2025T4,Novo Investidor,Tesouro Direto,Central de Atendimento,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,20.8,4.0,0.0
+FD00332,396,2025-10-26,2025T4,Novo Investidor,Tesouro Direto,App,0-6 meses,6,Demora para resolver meu problema,2025Q4,,0.0,0.0,20.7,5.0,0.0
+FD00333,99,2025-10-27,2025T4,Private,Fundos,App,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00334,294,2025-01-12,2025T4,Alta Renda,COE,Central de Atendimento,2-5 anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,6.2,10.0,0.0
+FD00335,24,2025-11-13,2025T4,Alta Renda,Tesouro Direto,App,5+ anos,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,28.1,7.0,0.0
+FD00336,468,2025-09-12,2025T4,Varejo,CDB,Central de Atendimento,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,29.7,10.0,0.0
+FD00337,326,2025-12-15,2025T4,Varejo,Tesouro Direto,App,6-24 meses,5,Nao ficou claro o risco do produto,2025Q4,,0.0,0.0,39.7,8.0,0.0
+FD00338,178,2025-04-10,2025T4,Alta Renda,Fundos,App,5+ anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00339,485,2025-03-11,2025T4,Varejo,Tesouro Direto,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00340,80,2025-08-11,2025T4,Private,Tesouro Direto,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00341,536,2025-05-11,2025T4,Novo Investidor,Fundos,Assessoria,6-24 meses,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,14.4,5.0,0.0
+FD00342,519,2025-05-12,2025T4,Novo Investidor,CDB,Internet Banking,2-5 anos,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,27.8,10.0,0.0
+FD00343,280,2025-11-14,2025T4,Varejo,CDB,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,1.0,12.8,8.0,0.0
+FD00344,373,2025-10-12,2025T4,Private,Tesouro Direto,Central de Atendimento,6-24 meses,1,Nao ficou claro o risco do produto,2025Q4,,0.0,0.0,21.150000000000002,12.0,1.0
+FD00345,344,2025-12-17,2025T4,Alta Renda,Fundos,Central de Atendimento,2-5 anos,5,Nao entendi a cobranca,2025Q4,,0.0,0.0,15.2,4.0,1.0
+FD00346,486,2025-01-10,2025T4,Novo Investidor,Tesouro Direto,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00347,12,2025-04-12,2025T4,Novo Investidor,CDB,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,17.5,10.0,0.0
+FD00348,394,2025-11-20,2025T4,Varejo,CDB,Central de Atendimento,6-24 meses,9,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,27.049999999999997,15.0,1.0
+FD00349,405,2025-10-26,2025T4,Alta Renda,Carteira Administrada,,5+ anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,1.0,54.2,4.0,0.0
+FD00350,426,2025-08-10,2025T4,Alta Renda,Carteira Administrada,App,6-24 meses,9,Boa experiencia no aplicativo,2025Q4,10.0,1.0,0.0,21.1,12.0,0.0
+FD00351,407,2025-10-15,2025T4,Alta Renda,Carteira Administrada,App,5+ anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,1.0,46.8,10.0,0.0
+FD00352,488,2025-10-24,2025T4,Alta Renda,CDB,Assessoria,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,10.0,1.0,0.0,31.6,5.0,1.0
+FD00353,508,2025-08-12,2025T4,Varejo,Tesouro Direto,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,,0.0,0.0
+FD00354,452,2025-11-26,2025T4,Alta Renda,Fundos,Internet Banking,5+ anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,2.0,1.0,0.0
+FD00355,378,2025-11-16,2025T4,Private,Tesouro Direto,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,15.9,11.0,1.0
+FD00356,256,2025-11-27,2025T4,Alta Renda,Fundos,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00357,237,2025-11-16,2025T4,Alta Renda,Fundos,Assessoria,5+ anos,9,Atendimento claro e rapido,2025Q4,,0.0,1.0,33.5,6.0,0.0
+FD00358,257,2025-11-28,2025T4,Novo Investidor,Fundos,App,6-24 meses,10,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,35.65,20.0,0.0
+FD00359,215,2025-10-10,2025T4,Varejo,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00360,539,2025-04-12,2025T4,Alta Renda,COE,Internet Banking,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,,0.0,0.0
+FD00361,335,2025-08-11,2025T4,Private,COE,App,2-5 anos,9,Consegui acompanhar minha carteira,2025Q4,10.0,2.0,0.0,,0.0,0.0
+FD00362,35,2025-10-11,2025T4,Novo Investidor,Fundos,Internet Banking,6-24 meses,3,Nao consegui falar com assessor,2025Q4,,0.0,0.0,26.8,8.0,0.0
+FD00363,307,2025-12-15,2025T4,Alta Renda,Tesouro Direto,Central de Atendimento,2-5 anos,8,,2025Q4,8.0,1.0,0.0,15.4,5.0,0.0
+FD00364,453,2025-07-12,2025T4,Alta Renda,Fundos,App,6-24 meses,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00365,318,2025-11-30,2025T4,Private,Carteira Administrada,App,0-6 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00366,321,2025-04-12,2025T4,Alta Renda,Tesouro Direto,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,7.2,5.0,0.0
+FD00367,269,2025-12-19,2025T4,Alta Renda,CDB,Central de Atendimento,0-6 meses,10,,2025Q4,10.0,1.0,0.0,18.25,9.0,0.0
+FD00368,8,2025-11-26,2025T4,Varejo,CDB,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,1.0,52.2,10.0,1.0
+FD00369,156,2025-12-21,2025T4,Private,Fundos,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2025Q4,,0.0,1.0,43.3,3.0,1.0
+FD00370,202,2025-12-10,2025T4,Private,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00371,456,2025-01-12,2025T4,Alta Renda,Fundos,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,1.0,5.0,0.0
+FD00372,234,2025-02-11,2025T4,Alta Renda,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,6.6,6.0,0.0
+FD00373,530,2025-10-20,2025T4,Varejo,Fundos,App,6-24 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,18.2,4.0,0.0
+FD00374,401,2025-10-17,2025T4,Private,Tesouro Direto,Central de Atendimento,0-6 meses,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,10.2,11.0,0.0
+FD00375,86,2025-11-18,2025T4,Alta Renda,COE,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,24.7,5.0,0.0
+FD00376,211,2025-10-24,2025T4,Alta Renda,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,9.0,1.0,0.0,1.0,12.0,0.0
+FD00377,243,2025-12-30,2025T4,Novo Investidor,Fundos,App,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00378,542,2025-10-22,2025T4,Varejo,Tesouro Direto,App,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,5.9,18.0,0.0
+FD00379,330,2025-11-28,2025T4,Private,Fundos,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,21.1,9.0,0.0
+FD00380,445,2025-10-22,2025T4,Varejo,COE,App,5+ anos,10,Informacoes estavam faceis de encontrar,2025Q4,10.0,1.0,1.0,22.6,6.0,0.0
+FD00381,312,2025-04-12,2025T4,Private,Fundos,Internet Banking,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00382,517,2025-11-15,2025T4,Alta Renda,CDB,App,6-24 meses,4,Informacoes divergentes sobre o produto,2025Q4,,0.0,0.0,14.2,8.0,1.0
+FD00383,290,2025-04-11,2025T4,Varejo,COE,App,5+ anos,9,Assessoria ajudou na decisao,2025Q4,9.0,1.0,0.0,34.4,8.0,0.0
+FD00384,223,2025-10-27,2025T4,Private,Carteira Administrada,Assessoria,0-6 meses,10,Consegui acompanhar minha carteira,2025Q4,10.0,2.0,0.0,34.25,7.0,0.0
+FD00385,247,2025-09-11,2025T4,Alta Renda,Fundos,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,6.7,5.0,0.0
+FD00386,102,2025-08-12,2025T4,Varejo,CDB,Central de Atendimento,0-6 meses,9,Boa experiencia no aplicativo,2025Q4,9.0,1.0,0.0,,0.0,0.0
+FD00387,314,2025-10-16,2025T4,Novo Investidor,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,31.9,11.0,0.0
+FD00388,500,2025-12-16,2025T4,Novo Investidor,Carteira Administrada,Assessoria,2-5 anos,8,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,,0.0,0.0
+FD00389,173,2025-12-20,2025T4,Alta Renda,Tesouro Direto,App,5+ anos,3,Demora para resolver meu problema,2025Q4,,0.0,0.0,20.6,4.0,0.0
+FD00390,452,2025-09-10,2025T4,Alta Renda,Fundos,App,0-6 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,2.0,1.0,0.0
+FD00391,484,2025-09-11,2025T4,Varejo,Tesouro Direto,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,1.0,28.5,6.0,0.0
+FD00392,492,2025-11-10,2025T4,Varejo,COE,App,2-5 anos,7,Demorou um pouco para encontrar informacoes,2025Q4,,0.0,2.0,42.95,11.0,0.0
+FD00393,78,2025-12-31,2025T4,Private,Fundos,App,0-6 meses,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,27.0,14.0,0.0
+FD00394,258,2025-10-29,2025T4,Varejo,Tesouro Direto,Internet Banking,0-6 meses,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,6.8,8.0,0.0
+FD00395,320,2025-04-11,2025T4,Private,Fundos,Assessoria,5+ anos,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,14.5,6.0,0.0
+FD00396,260,2025-11-30,2025T4,Private,COE,App,6-24 meses,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,28.9,11.0,0.0
+FD00397,432,2025-05-11,2025T4,Varejo,Carteira Administrada,App,2-5 anos,6,Demora para resolver meu problema,2025Q4,6.0,1.0,0.0,54.8,8.0,0.0
+FD00398,269,2025-06-10,2025T4,Alta Renda,CDB,App,2-5 anos,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,18.25,9.0,0.0
+FD00399,48,2025-12-26,2025T4,Alta Renda,CDB,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q4,7.0,2.0,0.0,5.5,12.0,0.0
+FD00400,282,2025-01-11,2025T4,Alta Renda,CDB,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00401,441,2025-06-10,2025T4,Private,CDB,App,2-5 anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,15.1,13.0,1.0
+FD00402,11,2025-12-17,2025T4,Private,Fundos,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,18.5,8.0,1.0
+FD00403,239,2025-08-11,2025T4,Varejo,Fundos,App,0-6 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00404,449,2025-09-10,2025T4,Alta Renda,CDB,App,6-24 meses,5,Nao consegui falar com assessor,2025Q4,10.0,1.0,0.0,7.8,9.0,0.0
+FD00405,321,2025-11-19,2025T4,Alta Renda,Fundos,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,7.2,5.0,0.0
+FD00406,48,2025-03-12,2025T4,Alta Renda,Fundos,App,5+ anos,5,Informacoes divergentes sobre o produto,2025Q4,7.0,2.0,0.0,5.5,12.0,0.0
+FD00407,449,2025-06-12,2025T4,Alta Renda,COE,App,6-24 meses,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,7.8,9.0,0.0
+FD00408,61,2025-03-10,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00409,394,2025-11-25,2025T4,Varejo,Fundos,App,5+ anos,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,27.049999999999997,15.0,1.0
+FD00410,468,2025-12-17,2025T4,Varejo,Carteira Administrada,App,2-5 anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,29.7,10.0,0.0
+FD00411,128,2025-11-26,2025T4,Varejo,Tesouro Direto,App,5+ anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,21.9,7.0,0.0
+FD00412,519,2025-11-26,2025T4,Novo Investidor,CDB,App,2-5 anos,4,Informacoes divergentes sobre o produto,2025Q4,,0.0,0.0,27.8,10.0,0.0
+FD00413,77,2025-12-18,2025T4,Varejo,Fundos,Central de Atendimento,6-24 meses,10,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,,0.0,0.0
+FD00414,135,2025-09-11,2025T4,Novo Investidor,CDB,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,29.1,9.0,1.0
+FD00415,393,2025-12-30,2025T4,Alta Renda,Tesouro Direto,Internet Banking,6-24 meses,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,6.9,6.0,0.0
+FD00416,492,2025-12-18,2025T4,Varejo,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,2.0,42.95,11.0,0.0
+FD00417,217,2025-11-27,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,20.8,4.0,0.0
+FD00418,335,2025-12-31,2025T4,Private,CDB,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2025Q4,10.0,2.0,0.0,,0.0,0.0
+FD00419,388,2025-12-25,2025T4,Private,CDB,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,30.1,3.0,0.0
+FD00420,373,2025-11-26,2025T4,Private,Tesouro Direto,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,21.150000000000002,12.0,1.0
+FD00421,529,2025-12-20,2025T4,Private,Tesouro Direto,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,8.6,18.0,1.0
+FD00422,45,2025-01-12,2025T4,Private,Tesouro Direto,App,2-5 anos,4,Aplicativo travou durante consulta,2025Q4,,0.0,0.0,,0.0,0.0
+FD00423,78,2025-10-28,2025T4,Private,COE,Internet Banking,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,27.0,14.0,0.0
+FD00424,174,2025-12-18,2025T4,Private,Fundos,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,10.0,1.0,0.0,18.1,6.0,0.0
+FD00425,542,2025-10-28,2025T4,Varejo,CDB,App,6-24 meses,7,"Experiencia ok, mas poderia ser mais simples",2025Q4,,0.0,0.0,5.9,18.0,0.0
+FD00426,139,2025-11-29,2025T4,Alta Renda,CDB,App,0-6 meses,8,Tive duvida sobre rentabilidade,2025Q4,8.0,1.0,0.0,27.0,10.0,0.0
+FD00427,162,2025-10-29,2025T4,Varejo,Tesouro Direto,Assessoria,6-24 meses,4,Aplicativo travou durante consulta,2025Q4,4.0,1.0,0.0,,0.0,0.0
+FD00428,75,2025-07-11,2025T4,Varejo,CDB,Assessoria,0-6 meses,8,Tive duvida sobre rentabilidade,2025Q4,,0.0,0.0,,0.0,0.0
+FD00429,2,2025-12-30,2025T4,Novo Investidor,Tesouro Direto,Assessoria,6-24 meses,8,"Atendimento resolveu, mas demorou",2025Q4,,0.0,0.0,,0.0,0.0
+FD00430,408,2025-11-23,2025T4,Private,Tesouro Direto,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2025Q4,9.0,1.0,0.0,20.3,11.0,0.0
+FD00431,443,2025-11-18,2025T4,Alta Renda,Fundos,App,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,,0.0,0.0
+FD00432,27,2025-12-24,2025T4,Private,Carteira Administrada,Internet Banking,6-24 meses,10,Boa experiencia no aplicativo,2025Q4,,0.0,1.0,40.7,2.0,0.0
+FD00433,276,2025-11-30,2025T4,Alta Renda,CDB,,6-24 meses,10,Consegui acompanhar minha carteira,2025Q4,9.0,1.0,0.0,20.6,14.0,1.0
+FD00434,410,2025-08-12,2025T4,Private,Fundos,Central de Atendimento,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2025Q4,,0.0,0.0,,0.0,0.0
+FD00435,228,2025-07-11,2025T4,Alta Renda,Tesouro Direto,App,2-5 anos,7,Demorou um pouco para encontrar informacoes,2025Q4,,0.0,0.0,,0.0,0.0
+FD00436,165,2025-12-26,2025T4,Private,Tesouro Direto,Internet Banking,5+ anos,9,,2025Q4,,0.0,1.0,39.3,17.0,0.0
+FD00437,95,2025-10-22,2025T4,Varejo,CDB,Internet Banking,0-6 meses,1,Aplicativo travou durante consulta,2025Q4,1.0,1.0,0.0,42.4,5.0,0.0
+FD00438,201,2025-11-16,2025T4,Varejo,Fundos,App,2-5 anos,7,Tive duvida sobre rentabilidade,2025Q4,10.0,1.0,0.0,1.0,14.0,0.0
+FD00439,249,2025-12-18,2025T4,Novo Investidor,CDB,Internet Banking,5+ anos,9,Boa experiencia no aplicativo,2025Q4,8.0,1.0,1.0,35.45,11.0,1.0
+FD00440,74,2025-12-16,2025T4,Varejo,COE,App,2-5 anos,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00441,158,2025-12-11,2025T4,Varejo,Fundos,App,0-6 meses,7,Demorou um pouco para encontrar informacoes,2025Q4,,0.0,0.0,7.8,8.0,0.0
+FD00442,529,2025-10-16,2025T4,Private,Tesouro Direto,App,2-5 anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,8.6,18.0,1.0
+FD00443,411,2025-12-26,2025T4,Alta Renda,Tesouro Direto,Central de Atendimento,6-24 meses,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,29.4,4.0,1.0
+FD00444,383,2025-11-26,2025T4,Varejo,COE,App,2-5 anos,5,Nao ficou claro o risco do produto,2025Q4,6.0,1.0,0.0,20.5,9.0,0.0
+FD00445,261,2025-11-18,2025T4,Varejo,CDB,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,10.0,1.0,0.0,8.6,5.0,0.0
+FD00446,249,2025-11-27,2025T4,Novo Investidor,Tesouro Direto,Internet Banking,6-24 meses,7,Aplicativo poderia explicar melhor,2025Q4,8.0,1.0,1.0,35.45,11.0,1.0
+FD00447,503,2025-03-10,2025T4,Alta Renda,CDB,App,5+ anos,9,Assessoria ajudou na decisao,2025Q4,9.0,1.0,0.0,13.05,12.0,0.0
+FD00448,381,2025-03-12,2025T4,Private,CDB,App,6-24 meses,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00449,32,2025-05-11,2025T4,Private,CDB,App,6-24 meses,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,,0.0,0.0
+FD00450,271,2025-12-26,2025T4,Varejo,CDB,App,0-6 meses,7,Aplicativo poderia explicar melhor,2025Q4,10.0,1.0,0.0,17.65,15.0,0.0
+FD00451,219,2025-10-10,2025T4,Varejo,Fundos,Internet Banking,2-5 anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,2.9,9.0,0.0
+FD00452,72,2025-11-26,2025T4,Private,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2025Q4,,0.0,0.0,25.4,7.0,0.0
+FD00453,540,2025-12-15,2025T4,Private,Tesouro Direto,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2025Q4,,0.0,0.0,,0.0,0.0
+FD00454,13,2025-09-10,2025T4,Varejo,Tesouro Direto,App,5+ anos,8,Demorou um pouco para encontrar informacoes,2025Q4,,0.0,1.0,16.5,6.0,0.0
+FD00455,540,2025-07-11,2025T4,Private,Tesouro Direto,App,5+ anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00456,148,2025-12-28,2025T4,Alta Renda,Carteira Administrada,App,2-5 anos,10,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,35.8,11.0,0.0
+FD00457,490,2025-11-29,2025T4,Novo Investidor,Carteira Administrada,Assessoria,2-5 anos,10,,2025Q4,,0.0,0.0,42.5,9.0,0.0
+FD00458,236,2025-02-12,2025T4,Varejo,CDB,Internet Banking,2-5 anos,10,Boa experiencia no aplicativo,2025Q4,10.0,1.0,0.0,31.200000000000003,8.0,0.0
+FD00459,547,2025-10-22,2025T4,Private,CDB,App,2-5 anos,10,,2025Q4,,0.0,0.0,13.5,12.0,0.0
+FD00460,456,2025-10-10,2025T4,Alta Renda,Fundos,App,6-24 meses,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,1.0,5.0,0.0
+FD00461,431,2025-12-28,2025T4,Private,Fundos,Assessoria,0-6 meses,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,26.5,5.0,0.0
+FD00462,357,2025-11-14,2025T4,Private,Tesouro Direto,App,5+ anos,10,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,16.3,10.0,0.0
+FD00463,271,2025-10-15,2025T4,Varejo,Fundos,Assessoria,6-24 meses,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,17.65,15.0,0.0
+FD00464,133,2025-11-28,2025T4,Private,CDB,Central de Atendimento,6-24 meses,5,Informacoes divergentes sobre o produto,2025Q4,,0.0,0.0,26.8,5.0,0.0
+FD00465,413,2025-02-10,2025T4,Novo Investidor,Tesouro Direto,App,2-5 anos,7,"Atendimento resolveu, mas demorou",2025Q4,,0.0,0.0,,0.0,0.0
+FD00466,276,2025-12-21,2025T4,Alta Renda,Fundos,Central de Atendimento,0-6 meses,10,Assessoria ajudou na decisao,2025Q4,9.0,1.0,0.0,20.6,14.0,1.0
+FD00467,506,2025-12-12,2025T4,Private,CDB,App,2-5 anos,10,Atendimento claro e rapido,2025Q4,10.0,1.0,0.0,,0.0,0.0
+FD00468,377,2025-09-10,2025T4,Varejo,CDB,Internet Banking,5+ anos,10,Atendimento claro e rapido,2025Q4,,0.0,0.0,,0.0,0.0
+FD00469,286,2025-12-17,2025T4,Private,CDB,App,5+ anos,9,Consegui acompanhar minha carteira,2025Q4,,0.0,0.0,24.5,8.0,0.0
+FD00470,292,2025-11-10,2025T4,Private,COE,Internet Banking,2-5 anos,9,Atendimento claro e rapido,2025Q4,,0.0,0.0,40.55,13.0,1.0
+FD00471,332,2026-02-25,2026T1,Varejo,CDB,Internet Banking,6-24 meses,8,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,,0.0,0.0
+FD00472,5,2026-11-01,2026T1,Private,CDB,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00473,427,2026-06-01,2026T1,Alta Renda,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,2.0,53.0,10.0,1.0
+FD00474,48,2026-03-31,2026T1,Alta Renda,Carteira Administrada,Central de Atendimento,5+ anos,8,Tive duvida sobre rentabilidade,2026Q1,10.0,1.0,0.0,23.6,3.0,0.0
+FD00475,483,2026-01-03,2026T1,Alta Renda,Tesouro Direto,Internet Banking,5+ anos,9,Consegui acompanhar minha carteira,2026Q1,,0.0,1.0,30.2,8.0,0.0
+FD00476,466,2026-03-23,2026T1,Alta Renda,Tesouro Direto,App,5+ anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,11.6,10.0,0.0
+FD00477,48,2026-01-27,2026T1,Alta Renda,COE,Central de Atendimento,0-6 meses,9,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,23.6,3.0,0.0
+FD00478,216,2026-03-02,2026T1,Private,Fundos,App,6-24 meses,4,Aplicativo travou durante consulta,2026Q1,,0.0,0.0,,0.0,0.0
+FD00479,109,2026-03-24,2026T1,Private,CDB,Central de Atendimento,5+ anos,9,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,0.0,18.0,8.0,0.0
+FD00480,358,2026-02-22,2026T1,Varejo,Fundos,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,19.299999999999997,26.0,0.0
+FD00481,108,2026-02-17,2026T1,Varejo,Carteira Administrada,App,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q1,,0.0,0.0,49.3,15.0,0.0
+FD00482,202,2026-02-18,2026T1,Private,CDB,App,5+ anos,9,Boa experiencia no aplicativo,2026Q1,8.0,1.0,0.0,32.4,12.0,0.0
+FD00483,284,2026-02-21,2026T1,Private,Tesouro Direto,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,1.0,37.199999999999996,28.0,0.0
+FD00484,9,2026-02-16,2026T1,Varejo,Fundos,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00485,387,2026-09-02,2026T1,Alta Renda,CDB,Assessoria,6-24 meses,10,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,3.3,5.0,1.0
+FD00486,217,2026-02-22,2026T1,Alta Renda,CDB,Assessoria,2-5 anos,9,Atendimento claro e rapido,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00487,425,2026-06-03,2026T1,Private,COE,App,2-5 anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,,0.0,0.0
+FD00488,530,2026-03-13,2026T1,Varejo,Carteira Administrada,App,6-24 meses,6,Demora para resolver meu problema,2026Q1,,0.0,0.0,36.9,17.0,1.0
+FD00489,479,2026-03-26,2026T1,Novo Investidor,Carteira Administrada,Central de Atendimento,6-24 meses,10,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,0.0,47.6,4.0,1.0
+FD00490,460,2026-01-01,2026T1,Private,CDB,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,,0.0,0.0
+FD00491,393,2026-03-21,2026T1,Alta Renda,Tesouro Direto,Assessoria,6-24 meses,7,"Atendimento resolveu, mas demorou",2026Q1,,0.0,1.0,20.8,23.0,1.0
+FD00492,384,2026-03-19,2026T1,Varejo,Tesouro Direto,App,5+ anos,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,28.9,14.0,0.0
+FD00493,424,2026-01-13,2026T1,Alta Renda,CDB,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00494,134,2026-03-30,2026T1,Alta Renda,COE,App,2-5 anos,5,Nao consegui falar com assessor,2026Q1,,0.0,0.0,13.4,18.0,0.0
+FD00495,198,2026-04-01,2026T1,Novo Investidor,Tesouro Direto,App,2-5 anos,8,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,,0.0,0.0
+FD00496,414,2026-04-02,2026T1,Varejo,CDB,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00497,64,2026-02-03,2026T1,Alta Renda,Fundos,App,6-24 meses,8,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,25.5,9.0,0.0
+FD00498,428,2026-01-14,2026T1,Novo Investidor,COE,App,6-24 meses,7,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,,0.0,0.0
+FD00499,459,2026-04-01,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,,0.0,0.0
+FD00500,5,2026-12-02,2026T1,Private,Carteira Administrada,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,,0.0,0.0
+FD00501,287,2026-02-26,2026T1,Alta Renda,Carteira Administrada,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,10.0,1.0,1.0,70.1,11.0,0.0
+FD00502,543,2026-12-02,2026T1,Private,Tesouro Direto,App,5+ anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,20.7,9.0,1.0
+FD00503,128,2026-01-23,2026T1,Varejo,CDB,Central de Atendimento,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,9.0,1.0,0.0,7.9,4.0,0.0
+FD00504,502,2026-06-01,2026T1,Alta Renda,CDB,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,23.6,4.0,0.0
+FD00505,312,2026-09-03,2026T1,Private,CDB,App,6-24 meses,6,Informacoes divergentes sobre o produto,2026Q1,,0.0,0.0,,0.0,0.0
+FD00506,515,2026-01-22,2026T1,Private,Carteira Administrada,Assessoria,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00507,334,2026-01-18,2026T1,Private,COE,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00508,325,2026-03-28,2026T1,Novo Investidor,CDB,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,32.8,6.0,0.0
+FD00509,202,2026-02-27,2026T1,Private,CDB,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q1,8.0,1.0,0.0,32.4,12.0,0.0
+FD00510,316,2026-03-16,2026T1,Varejo,CDB,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00511,338,2026-03-17,2026T1,Varejo,COE,App,0-6 meses,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,26.8,11.0,1.0
+FD00512,314,2026-02-28,2026T1,Novo Investidor,CDB,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00513,335,2026-03-18,2026T1,Private,Carteira Administrada,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00514,125,2026-04-03,2026T1,Private,CDB,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,23.8,11.0,0.0
+FD00515,37,2026-03-22,2026T1,Alta Renda,CDB,App,6-24 meses,8,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,29.3,11.0,1.0
+FD00516,400,2026-03-17,2026T1,Varejo,COE,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,20.0,16.0,0.0
+FD00517,298,2026-01-29,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,8,"Experiencia ok, mas poderia ser mais simples",2026Q1,7.0,1.0,0.0,20.15,14.0,0.0
+FD00518,411,2026-01-27,2026T1,Alta Renda,Fundos,,5+ anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,22.5,7.0,0.0
+FD00519,491,2026-01-18,2026T1,Alta Renda,Fundos,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,13.2,11.0,0.0
+FD00520,11,2026-01-22,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,23.6,0.0,0.0
+FD00521,387,2026-03-20,2026T1,Alta Renda,CDB,App,5+ anos,10,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,3.3,5.0,1.0
+FD00522,75,2026-06-02,2026T1,Varejo,Carteira Administrada,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00523,214,2026-09-03,2026T1,Private,COE,App,5+ anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,25.4,7.0,0.0
+FD00524,511,2026-02-22,2026T1,Varejo,Fundos,Internet Banking,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q1,7.0,1.0,0.0,16.0,7.0,0.0
+FD00525,79,2026-01-16,2026T1,Alta Renda,Tesouro Direto,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,14.6,9.0,0.0
+FD00526,500,2026-01-26,2026T1,Novo Investidor,Fundos,Assessoria,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,26.3,9.0,1.0
+FD00527,291,2026-02-22,2026T1,Private,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,10.0,1.0,0.0,13.0,11.0,0.0
+FD00528,494,2026-12-02,2026T1,Private,Carteira Administrada,App,5+ anos,10,Atendimento claro e rapido,2026Q1,,0.0,1.0,40.6,8.0,0.0
+FD00529,57,2026-02-01,2026T1,Private,CDB,Assessoria,2-5 anos,6,Demora para resolver meu problema,2026Q1,8.0,1.0,0.0,32.9,10.0,0.0
+FD00530,276,2026-09-02,2026T1,Alta Renda,CDB,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00531,82,2026-02-26,2026T1,Varejo,Fundos,App,5+ anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,15.1,6.0,0.0
+FD00532,78,2026-09-02,2026T1,Private,Fundos,App,0-6 meses,10,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00533,388,2026-07-03,2026T1,Private,Fundos,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,20.0,3.0,0.0
+FD00534,287,2026-01-29,2026T1,Alta Renda,CDB,App,5+ anos,10,Atendimento claro e rapido,2026Q1,10.0,1.0,1.0,70.1,11.0,0.0
+FD00535,39,2026-01-18,2026T1,Varejo,CDB,App,0-6 meses,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,20.8,11.0,0.0
+FD00536,55,2026-01-22,2026T1,Varejo,Carteira Administrada,App,2-5 anos,8,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,28.2,5.0,0.0
+FD00537,293,2026-01-18,2026T1,Varejo,Carteira Administrada,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00538,375,2026-03-19,2026T1,Private,Fundos,App,6-24 meses,7,Tive duvida sobre rentabilidade,2026Q1,8.0,1.0,0.0,16.2,9.0,0.0
+FD00539,203,2026-02-15,2026T1,Private,Fundos,Central de Atendimento,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00540,369,2026-03-28,2026T1,Private,Carteira Administrada,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q1,10.0,1.0,1.0,30.349999999999998,12.0,0.0
+FD00541,166,2026-03-24,2026T1,Varejo,CDB,App,0-6 meses,7,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,14.5,10.0,0.0
+FD00542,149,2026-01-29,2026T1,Private,Carteira Administrada,Assessoria,0-6 meses,10,Atendimento claro e rapido,2026Q1,,0.0,1.0,54.0,5.0,0.0
+FD00543,351,2026-01-01,2026T1,Alta Renda,Tesouro Direto,Internet Banking,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,8.0,1.0,0.0,,0.0,0.0
+FD00544,202,2026-03-31,2026T1,Private,CDB,Central de Atendimento,0-6 meses,10,Assessoria ajudou na decisao,2026Q1,8.0,1.0,0.0,32.4,12.0,0.0
+FD00545,532,2026-07-03,2026T1,Novo Investidor,Tesouro Direto,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,16.7,10.0,0.0
+FD00546,208,2026-03-17,2026T1,Varejo,Tesouro Direto,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,1.0,48.1,14.0,0.0
+FD00547,209,2026-12-02,2026T1,Private,Carteira Administrada,App,6-24 meses,1,Nao consegui falar com assessor,2026Q1,10.0,1.0,0.0,16.1,8.0,0.0
+FD00548,209,2026-03-24,2026T1,Private,Tesouro Direto,App,6-24 meses,10,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,16.1,8.0,0.0
+FD00549,429,2026-09-01,2026T1,Alta Renda,Fundos,App,0-6 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,,0.0,0.0
+FD00550,498,2026-01-26,2026T1,Private,CDB,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2026Q1,8.0,1.0,0.0,23.4,4.0,0.0
+FD00551,70,2026-11-02,2026T1,Novo Investidor,Fundos,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,27.7,9.0,0.0
+FD00552,367,2026-02-03,2026T1,Novo Investidor,Fundos,App,5+ anos,1,Aplicativo travou durante consulta,2026Q1,,0.0,0.0,,0.0,0.0
+FD00553,259,2026-02-22,2026T1,Varejo,Carteira Administrada,App,6-24 meses,5,Nao ficou claro o risco do produto,2026Q1,4.0,1.0,0.0,41.3,10.0,1.0
+FD00554,372,2026-03-16,2026T1,Private,Carteira Administrada,Internet Banking,5+ anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,31.8,7.0,0.0
+FD00555,377,2026-01-28,2026T1,Varejo,Tesouro Direto,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,16.3,5.0,0.0
+FD00556,178,2026-04-02,2026T1,Alta Renda,Carteira Administrada,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,32.2,4.0,0.0
+FD00557,474,2026-03-30,2026T1,Novo Investidor,Tesouro Direto,App,6-24 meses,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,35.7,7.0,0.0
+FD00558,232,2026-03-28,2026T1,Alta Renda,Fundos,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q1,8.0,1.0,0.0,31.4,7.0,0.0
+FD00559,464,2026-02-19,2026T1,Varejo,CDB,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,8.2,9.0,0.0
+FD00560,549,2026-12-02,2026T1,Alta Renda,CDB,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,22.5,9.0,0.0
+FD00561,245,2026-01-24,2026T1,Private,CDB,App,5+ anos,9,Atendimento claro e rapido,2026Q1,,0.0,1.0,42.2,5.0,0.0
+FD00562,366,2026-01-29,2026T1,Alta Renda,CDB,Internet Banking,0-6 meses,7,Demorou um pouco para encontrar informacoes,2026Q1,7.0,1.0,0.0,17.2,10.0,0.0
+FD00563,7,2026-03-31,2026T1,Private,Tesouro Direto,Internet Banking,2-5 anos,10,,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00564,47,2026-05-02,2026T1,Alta Renda,CDB,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00565,455,2026-06-01,2026T1,Private,COE,App,2-5 anos,8,Demorou um pouco para encontrar informacoes,2026Q1,7.0,1.0,0.0,30.5,11.0,0.0
+FD00566,185,2026-11-02,2026T1,Private,Tesouro Direto,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00567,290,2026-01-29,2026T1,Varejo,COE,App,6-24 meses,1,,2026Q1,,0.0,0.0,,0.0,0.0
+FD00568,156,2026-03-01,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00569,247,2026-11-01,2026T1,Alta Renda,Fundos,Central de Atendimento,5+ anos,7,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,,0.0,0.0
+FD00570,90,2026-06-01,2026T1,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,,0.0,0.0
+FD00571,294,2026-02-20,2026T1,Alta Renda,CDB,App,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q1,,0.0,0.0,,0.0,0.0
+FD00572,28,2026-02-28,2026T1,Alta Renda,CDB,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,31.0,15.0,0.0
+FD00573,299,2026-01-29,2026T1,Varejo,CDB,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,49.1,4.0,0.0
+FD00574,72,2026-03-25,2026T1,Private,Tesouro Direto,App,2-5 anos,9,,2026Q1,9.0,1.0,0.0,22.4,4.0,0.0
+FD00575,295,2026-09-01,2026T1,Private,CDB,Internet Banking,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00576,192,2026-01-24,2026T1,Novo Investidor,CDB,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,9.0,1.0,0.0,37.0,6.0,0.0
+FD00577,123,2026-02-19,2026T1,Alta Renda,Tesouro Direto,Internet Banking,0-6 meses,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,1.0,22.5,7.0,0.0
+FD00578,324,2026-12-02,2026T1,Private,CDB,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00579,400,2026-02-28,2026T1,Varejo,CDB,Central de Atendimento,0-6 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,20.0,16.0,0.0
+FD00580,158,2026-03-25,2026T1,Varejo,Fundos,App,2-5 anos,9,,2026Q1,,0.0,0.0,11.9,5.0,0.0
+FD00581,437,2026-01-24,2026T1,Private,COE,App,6-24 meses,5,Informacoes divergentes sobre o produto,2026Q1,,0.0,0.0,1.8,11.0,1.0
+FD00582,317,2026-07-03,2026T1,Alta Renda,CDB,App,2-5 anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,23.7,24.0,0.0
+FD00583,430,2026-02-24,2026T1,Private,Tesouro Direto,Assessoria,2-5 anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,17.9,5.0,0.0
+FD00584,151,2026-06-03,2026T1,Novo Investidor,CDB,Assessoria,6-24 meses,3,,2026Q1,,0.0,0.0,39.1,6.0,0.0
+FD00585,409,2026-01-03,2026T1,Novo Investidor,CDB,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00586,299,2026-09-02,2026T1,Varejo,Carteira Administrada,Assessoria,2-5 anos,10,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,49.1,4.0,0.0
+FD00587,366,2026-01-03,2026T1,Alta Renda,Fundos,Central de Atendimento,5+ anos,10,Atendimento claro e rapido,2026Q1,7.0,1.0,0.0,17.2,10.0,0.0
+FD00588,214,2026-06-03,2026T1,Private,Fundos,Internet Banking,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,25.4,7.0,0.0
+FD00589,111,2026-01-18,2026T1,Alta Renda,Fundos,Internet Banking,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,17.3,9.0,0.0
+FD00590,330,2026-02-16,2026T1,Private,Tesouro Direto,Internet Banking,0-6 meses,9,Consegui acompanhar minha carteira,2026Q1,8.0,1.0,0.0,,0.0,0.0
+FD00591,351,2026-02-26,2026T1,Alta Renda,Carteira Administrada,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,8.0,1.0,0.0,,0.0,0.0
+FD00592,93,2026-01-17,2026T1,Varejo,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,4.3,12.0,0.0
+FD00593,431,2026-06-01,2026T1,Private,Tesouro Direto,App,0-6 meses,7,"Experiencia ok, mas poderia ser mais simples",2026Q1,,0.0,0.0,,0.0,0.0
+FD00594,527,2026-01-18,2026T1,Alta Renda,COE,App,2-5 anos,9,Consegui acompanhar minha carteira,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00595,211,2026-02-18,2026T1,Alta Renda,CDB,App,5+ anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,11.9,10.0,1.0
+FD00596,427,2026-01-16,2026T1,Alta Renda,Carteira Administrada,Internet Banking,6-24 meses,7,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,2.0,53.0,10.0,1.0
+FD00597,357,2026-01-18,2026T1,Private,Tesouro Direto,App,6-24 meses,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,10.0,12.0,1.0
+FD00598,130,2026-08-02,2026T1,Alta Renda,Fundos,App,2-5 anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,5.6,13.0,0.0
+FD00599,31,2026-01-15,2026T1,Varejo,Fundos,Internet Banking,6-24 meses,9,Consegui acompanhar minha carteira,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00600,397,2026-02-21,2026T1,Varejo,Tesouro Direto,App,2-5 anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,,0.0,0.0
+FD00601,87,2026-03-15,2026T1,Varejo,Carteira Administrada,Assessoria,6-24 meses,7,Tive duvida sobre rentabilidade,2026Q1,7.0,1.0,0.0,30.7,4.0,0.0
+FD00602,493,2026-11-01,2026T1,Private,Fundos,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,18.3,10.0,0.0
+FD00603,340,2026-03-14,2026T1,Private,Carteira Administrada,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,35.4,10.0,0.0
+FD00604,344,2026-01-23,2026T1,Alta Renda,Tesouro Direto,App,6-24 meses,5,,2026Q1,5.0,1.0,0.0,24.5,18.0,0.0
+FD00605,503,2026-02-24,2026T1,Alta Renda,Carteira Administrada,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00606,484,2026-02-27,2026T1,Varejo,Fundos,Internet Banking,0-6 meses,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,21.866666666666664,29.0,0.0
+FD00607,370,2026-03-03,2026T1,Private,Tesouro Direto,Internet Banking,2-5 anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,14.5,7.0,0.0
+FD00608,476,2026-02-18,2026T1,Novo Investidor,Tesouro Direto,Assessoria,2-5 anos,6,Aplicativo travou durante consulta,2026Q1,,0.0,0.0,,0.0,0.0
+FD00609,337,2026-02-20,2026T1,Varejo,CDB,Assessoria,6-24 meses,3,Informacoes divergentes sobre o produto,2026Q1,,0.0,0.0,22.9,6.0,0.0
+FD00610,28,2026-01-27,2026T1,Alta Renda,Carteira Administrada,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,31.0,15.0,0.0
+FD00611,176,2026-02-24,2026T1,Private,Carteira Administrada,App,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q1,,0.0,0.0,,0.0,0.0
+FD00612,360,2026-07-02,2026T1,Varejo,Fundos,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00613,341,2026-02-20,2026T1,Alta Renda,CDB,Internet Banking,5+ anos,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,5.9,7.0,0.0
+FD00614,344,2026-02-25,2026T1,Alta Renda,Carteira Administrada,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,5.0,1.0,0.0,24.5,18.0,0.0
+FD00615,530,2026-03-21,2026T1,Varejo,Fundos,App,5+ anos,8,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,36.9,17.0,1.0
+FD00616,60,2026-06-02,2026T1,Alta Renda,CDB,Assessoria,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00617,233,2026-03-03,2026T1,Varejo,Tesouro Direto,Assessoria,6-24 meses,8,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,,0.0,0.0
+FD00618,111,2026-01-23,2026T1,Alta Renda,Fundos,Central de Atendimento,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,17.3,9.0,0.0
+FD00619,86,2026-08-01,2026T1,Alta Renda,Tesouro Direto,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,25.5,6.0,0.0
+FD00620,525,2026-01-13,2026T1,Varejo,Carteira Administrada,App,5+ anos,5,Nao ficou claro o risco do produto,2026Q1,,0.0,0.0,11.2,14.0,0.0
+FD00621,23,2026-01-31,2026T1,Alta Renda,Tesouro Direto,App,0-6 meses,9,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,7.2,14.0,0.0
+FD00622,311,2026-03-30,2026T1,Alta Renda,CDB,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,28.8,10.0,0.0
+FD00623,120,2026-12-02,2026T1,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,17.4,9.0,0.0
+FD00624,169,2026-03-30,2026T1,Private,Fundos,App,6-24 meses,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,10.9,6.0,1.0
+FD00625,509,2026-02-26,2026T1,Novo Investidor,Tesouro Direto,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00626,196,2026-01-18,2026T1,Alta Renda,Fundos,App,2-5 anos,8,Tive duvida sobre rentabilidade,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00627,298,2026-02-28,2026T1,Private,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,7.0,1.0,0.0,20.15,14.0,0.0
+FD00628,492,2026-03-28,2026T1,Varejo,CDB,App,2-5 anos,3,Nao entendi a cobranca,2026Q1,,0.0,0.0,18.5,10.0,1.0
+FD00629,225,2026-12-02,2026T1,Private,Fundos,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00630,123,2026-02-27,2026T1,Alta Renda,Carteira Administrada,Assessoria,0-6 meses,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,1.0,22.5,7.0,0.0
+FD00631,219,2026-09-03,2026T1,Varejo,Tesouro Direto,Internet Banking,5+ anos,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,29.5,7.0,0.0
+FD00632,94,2026-03-17,2026T1,Varejo,CDB,Internet Banking,5+ anos,9,Atendimento claro e rapido,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00633,109,2026-02-23,2026T1,Private,CDB,Central de Atendimento,6-24 meses,10,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,18.0,8.0,0.0
+FD00634,319,2026-03-03,2026T1,Private,CDB,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00635,484,2026-01-31,2026T1,Varejo,Carteira Administrada,App,6-24 meses,9,,2026Q1,,0.0,0.0,21.866666666666664,29.0,0.0
+FD00636,10,2026-02-25,2026T1,Varejo,COE,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,10.3,10.0,0.0
+FD00637,222,2026-02-21,2026T1,Varejo,CDB,App,5+ anos,3,Nao entendi a cobranca,2026Q1,,0.0,0.0,24.3,11.0,0.0
+FD00638,106,2026-02-03,2026T1,Private,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,30.1,5.0,1.0
+FD00639,473,2026-02-28,2026T1,Private,CDB,Assessoria,5+ anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,8.5,3.0,0.0
+FD00640,50,2026-03-19,2026T1,Private,Tesouro Direto,App,6-24 meses,9,,2026Q1,,0.0,1.0,35.85,15.0,0.0
+FD00641,362,2026-01-22,2026T1,Varejo,Fundos,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,19.6,7.0,1.0
+FD00642,415,2026-02-14,2026T1,Varejo,CDB,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00643,119,2026-05-02,2026T1,Novo Investidor,CDB,App,0-6 meses,6,Nao consegui falar com assessor,2026Q1,6.0,1.0,0.0,37.6,8.0,0.0
+FD00644,467,2026-03-28,2026T1,Alta Renda,COE,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,1.0,10.0,1.0
+FD00645,42,2026-10-02,2026T1,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,1.0,26.4,9.0,0.0
+FD00646,261,2026-02-03,2026T1,Varejo,Carteira Administrada,Internet Banking,6-24 meses,6,Nao consegui falar com assessor,2026Q1,,0.0,1.0,43.1,6.0,0.0
+FD00647,525,2026-01-03,2026T1,Varejo,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2026Q1,,0.0,0.0,11.2,14.0,0.0
+FD00648,45,2026-10-02,2026T1,Private,CDB,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,27.2,15.0,0.0
+FD00649,328,2026-05-02,2026T1,Varejo,Fundos,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,4.7,7.0,0.0
+FD00650,98,2026-03-16,2026T1,Alta Renda,CDB,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q1,10.0,1.0,0.0,18.3,13.0,0.0
+FD00651,360,2026-01-17,2026T1,Varejo,CDB,,6-24 meses,9,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00652,76,2026-01-17,2026T1,Varejo,Tesouro Direto,App,0-6 meses,7,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,18.5,14.0,0.0
+FD00653,541,2026-01-24,2026T1,Novo Investidor,CDB,Assessoria,0-6 meses,10,Boa experiencia no aplicativo,2026Q1,9.0,1.0,0.0,49.45,13.0,1.0
+FD00654,68,2026-01-14,2026T1,Varejo,Fundos,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00655,269,2026-09-01,2026T1,Alta Renda,COE,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q1,10.0,1.0,0.0,25.0,6.0,0.0
+FD00656,517,2026-01-26,2026T1,Alta Renda,CDB,Assessoria,6-24 meses,10,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,0.0,25.0,5.0,0.0
+FD00657,402,2026-01-17,2026T1,Novo Investidor,Tesouro Direto,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,17.3,6.0,0.0
+FD00658,495,2026-03-13,2026T1,Alta Renda,Tesouro Direto,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,1.3,6.0,0.0
+FD00659,465,2026-03-03,2026T1,Novo Investidor,Fundos,Assessoria,6-24 meses,8,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,,0.0,0.0
+FD00660,375,2026-06-01,2026T1,Private,CDB,App,2-5 anos,10,Atendimento claro e rapido,2026Q1,8.0,1.0,0.0,16.2,9.0,0.0
+FD00661,99,2026-01-26,2026T1,Private,Fundos,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,1.0,3.0,0.0
+FD00662,196,2026-01-30,2026T1,Alta Renda,CDB,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00663,454,2026-01-21,2026T1,Novo Investidor,Fundos,Internet Banking,6-24 meses,8,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,41.8,7.0,0.0
+FD00664,369,2026-02-17,2026T1,Private,CDB,Central de Atendimento,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,1.0,30.349999999999998,12.0,0.0
+FD00665,410,2026-03-19,2026T1,Private,Fundos,Internet Banking,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00666,393,2026-12-01,2026T1,Alta Renda,Fundos,App,5+ anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q1,,0.0,1.0,20.8,23.0,1.0
+FD00667,267,2026-03-25,2026T1,Varejo,Tesouro Direto,App,5+ anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,,0.0,0.0
+FD00668,286,2026-10-03,2026T1,Private,Carteira Administrada,Assessoria,2-5 anos,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,28.0,9.0,0.0
+FD00669,345,2026-01-21,2026T1,Alta Renda,Fundos,App,5+ anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,,0.0,0.0
+FD00670,385,2026-10-01,2026T1,Varejo,COE,Assessoria,5+ anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,,0.0,0.0
+FD00671,86,2026-03-03,2026T1,Alta Renda,CDB,App,5+ anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,25.5,6.0,0.0
+FD00672,86,2026-04-01,2026T1,Alta Renda,CDB,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,25.5,6.0,0.0
+FD00673,73,2026-11-01,2026T1,Private,CDB,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,1.0,6.0,0.0
+FD00674,115,2026-10-01,2026T1,Varejo,Tesouro Direto,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00675,45,2026-03-26,2026T1,Private,Carteira Administrada,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,27.2,15.0,0.0
+FD00676,520,2026-01-26,2026T1,Private,CDB,Assessoria,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,,0.0,0.0
+FD00677,298,2026-01-17,2026T1,Private,Tesouro Direto,App,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q1,7.0,1.0,0.0,20.15,14.0,0.0
+FD00678,369,2026-02-26,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,9,Consegui acompanhar minha carteira,2026Q1,10.0,1.0,1.0,30.349999999999998,12.0,0.0
+FD00679,398,2026-02-17,2026T1,Alta Renda,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2026Q1,,0.0,1.0,37.2,12.0,0.0
+FD00680,238,2026-01-23,2026T1,Private,Carteira Administrada,App,0-6 meses,4,Aplicativo travou durante consulta,2026Q1,3.0,1.0,0.0,24.8,7.0,0.0
+FD00681,284,2026-03-26,2026T1,Private,Carteira Administrada,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,1.0,37.199999999999996,28.0,0.0
+FD00682,80,2026-01-18,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,7,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,20.1,2.0,0.0
+FD00683,475,2026-11-01,2026T1,Alta Renda,CDB,App,5+ anos,10,Boa experiencia no aplicativo,2026Q1,,0.0,1.0,89.8,9.0,0.0
+FD00684,137,2026-03-23,2026T1,Alta Renda,Fundos,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,1.0,41.25,15.0,0.0
+FD00685,217,2026-02-22,2026T1,Alta Renda,Fundos,App,0-6 meses,10,Atendimento claro e rapido,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00686,313,2026-03-01,2026T1,Private,Fundos,App,5+ anos,9,Informacoes estavam faceis de encontrar,2026Q1,10.0,1.0,0.0,,0.0,0.0
+FD00687,344,2026-03-18,2026T1,Alta Renda,Fundos,App,5+ anos,10,Atendimento claro e rapido,2026Q1,5.0,1.0,0.0,24.5,18.0,0.0
+FD00688,236,2026-01-23,2026T1,Varejo,CDB,App,2-5 anos,7,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,26.9,7.0,0.0
+FD00689,201,2026-03-18,2026T1,Varejo,Tesouro Direto,Assessoria,6-24 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,1.0,6.0,0.0
+FD00690,527,2026-01-15,2026T1,Alta Renda,Carteira Administrada,App,6-24 meses,9,Informacoes estavam faceis de encontrar,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FD00691,508,2026-03-26,2026T1,Varejo,Tesouro Direto,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,9.7,11.0,0.0
+FD00692,16,2026-02-03,2026T1,Private,COE,App,5+ anos,9,Informacoes estavam faceis de encontrar,2026Q1,8.0,1.0,0.0,17.3,8.0,0.0
+FD00693,537,2026-09-01,2026T1,Varejo,Carteira Administrada,App,2-5 anos,9,Consegui acompanhar minha carteira,2026Q1,8.0,1.0,0.0,19.8,3.0,0.0
+FD00694,35,2026-03-18,2026T1,Novo Investidor,Tesouro Direto,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,36.8,13.0,1.0
+FD00695,264,2026-12-03,2026T1,Alta Renda,Carteira Administrada,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q1,,0.0,0.0,,0.0,0.0
+FD00696,278,2026-05-01,2026T1,Varejo,COE,App,6-24 meses,8,Demorou um pouco para encontrar informacoes,2026Q1,8.0,1.0,0.0,20.3,8.0,0.0
+FD00697,6,2026-05-02,2026T1,Private,CDB,Central de Atendimento,5+ anos,7,Tive duvida sobre rentabilidade,2026Q1,,0.0,0.0,6.9,5.0,0.0
+FD00698,131,2026-04-02,2026T1,Alta Renda,Carteira Administrada,App,2-5 anos,7,Aplicativo poderia explicar melhor,2026Q1,,0.0,0.0,33.2,15.0,0.0
+FD00699,537,2026-02-19,2026T1,Varejo,CDB,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2026Q1,8.0,1.0,0.0,19.8,3.0,0.0
+FD00700,57,2026-03-31,2026T1,Private,CDB,,0-6 meses,9,Boa experiencia no aplicativo,2026Q1,8.0,1.0,0.0,32.9,10.0,0.0
+FD00701,35,2026-03-03,2026T1,Novo Investidor,Carteira Administrada,Internet Banking,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q1,,0.0,0.0,36.8,13.0,1.0
+FD00702,495,2026-03-29,2026T1,Alta Renda,Fundos,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q1,,0.0,0.0,1.3,6.0,0.0
+FD00703,309,2026-02-24,2026T1,Varejo,Tesouro Direto,Assessoria,5+ anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,20.9,2.0,0.0
+FD00704,377,2026-05-03,2026T1,Varejo,Fundos,Assessoria,6-24 meses,7,Demorou um pouco para encontrar informacoes,2026Q1,,0.0,0.0,16.3,5.0,0.0
+FD00705,139,2026-02-18,2026T1,Alta Renda,Fundos,Internet Banking,0-6 meses,8,Demorou um pouco para encontrar informacoes,2026Q1,9.0,1.0,0.0,22.1,6.0,0.0
+FD00706,284,2026-03-25,2026T1,Private,Fundos,Assessoria,0-6 meses,9,Consegui acompanhar minha carteira,2026Q1,,0.0,1.0,37.199999999999996,28.0,0.0
+FD00707,519,2026-01-30,2026T1,Novo Investidor,Fundos,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,,0.0,0.0,39.9,8.0,0.0
+FD00708,67,2026-02-13,2026T1,Private,Fundos,Internet Banking,0-6 meses,3,Nao entendi a cobranca,2026Q1,,0.0,0.0,1.0,4.0,0.0
+FD00709,137,2026-10-03,2026T1,Alta Renda,Carteira Administrada,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q1,,0.0,1.0,41.25,15.0,0.0
+FD00710,38,2026-03-19,2026T1,Private,Tesouro Direto,Internet Banking,6-24 meses,9,Atendimento claro e rapido,2026Q1,10.0,1.0,0.0,24.3,3.0,0.0
+FD00711,223,2026-02-03,2026T1,Private,CDB,Assessoria,5+ anos,10,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,10.8,5.0,0.0
+FD00712,398,2026-03-03,2026T1,Alta Renda,Tesouro Direto,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2026Q1,,0.0,1.0,37.2,12.0,0.0
+FD00713,416,2026-02-27,2026T1,Alta Renda,Tesouro Direto,App,2-5 anos,8,"Atendimento resolveu, mas demorou",2026Q1,9.5,2.0,1.0,42.5,9.0,0.0
+FD00714,249,2026-01-25,2026T1,Novo Investidor,CDB,Central de Atendimento,5+ anos,10,Boa experiencia no aplicativo,2026Q1,10.0,1.0,0.0,26.4,4.0,0.0
+FD00715,461,2026-06-03,2026T1,Private,Fundos,App,2-5 anos,9,Atendimento claro e rapido,2026Q1,,0.0,0.0,,0.0,0.0
+FD00716,367,2026-05-25,2026T2,Novo Investidor,Tesouro Direto,App,0-6 meses,7,"Atendimento resolveu, mas demorou",2026Q2,8.0,1.0,0.0,,0.0,0.0
+FD00717,91,2026-06-16,2026T2,Private,Carteira Administrada,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,1.0,80.8,12.0,0.0
+FD00718,550,2026-12-05,2026T2,Varejo,Fundos,Central de Atendimento,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,24.5,3.0,0.0
+FD00719,390,2026-04-17,2026T2,Varejo,CDB,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,18.5,8.0,0.0
+FD00720,306,2026-04-04,2026T2,Novo Investidor,COE,App,5+ anos,1,Nao entendi a cobranca,2026Q2,,0.0,0.0,,0.0,0.0
+FD00721,229,2026-04-14,2026T2,Novo Investidor,Fundos,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,2.0,1.0,2.0,36.55,17.0,0.0
+FD00722,43,2026-04-23,2026T2,Private,Fundos,App,6-24 meses,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00723,188,2026-06-25,2026T2,Alta Renda,Tesouro Direto,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,,0.0,0.0
+FD00724,195,2026-05-29,2026T2,Alta Renda,Carteira Administrada,App,6-24 meses,7,Tive duvida sobre rentabilidade,2026Q2,,0.0,0.0,57.4,9.0,0.0
+FD00725,209,2026-09-05,2026T2,Private,Fundos,Assessoria,5+ anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00726,307,2026-08-05,2026T2,Alta Renda,Tesouro Direto,Central de Atendimento,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,32.9,8.0,0.0
+FD00727,4,2026-04-14,2026T2,Varejo,Carteira Administrada,App,6-24 meses,8,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,,0.0,0.0
+FD00728,446,2026-04-22,2026T2,Novo Investidor,COE,App,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,25.8,7.0,0.0
+FD00729,109,2026-07-04,2026T2,Private,CDB,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00730,432,2026-04-18,2026T2,Varejo,Tesouro Direto,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,18.3,11.0,0.0
+FD00731,400,2026-04-05,2026T2,Varejo,Fundos,Assessoria,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,32.6,13.0,0.0
+FD00732,545,2026-05-20,2026T2,Varejo,Carteira Administrada,App,6-24 meses,0,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,47.8,11.0,0.0
+FD00733,65,2026-05-18,2026T2,Alta Renda,COE,Internet Banking,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00734,40,2026-06-22,2026T2,Alta Renda,Carteira Administrada,App,6-24 meses,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,,0.0,0.0
+FD00735,10,2026-05-29,2026T2,Varejo,CDB,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,10.0,1.0,0.0,35.55,17.0,1.0
+FD00736,66,2026-06-28,2026T2,Alta Renda,Tesouro Direto,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,30.5,6.0,0.0
+FD00737,523,2026-06-20,2026T2,Novo Investidor,Carteira Administrada,App,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,73.6,13.0,0.0
+FD00738,538,2026-05-25,2026T2,Private,Tesouro Direto,App,5+ anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,34.2,8.0,1.0
+FD00739,524,2026-05-27,2026T2,Varejo,COE,Central de Atendimento,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,25.6,18.0,0.0
+FD00740,253,2026-05-15,2026T2,Varejo,Carteira Administrada,App,0-6 meses,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,8.0,1.0,0.0,,0.0,0.0
+FD00741,380,2026-04-05,2026T2,Alta Renda,Fundos,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00742,295,2026-04-20,2026T2,Private,Tesouro Direto,App,6-24 meses,7,Tive duvida sobre rentabilidade,2026Q2,,0.0,0.0,17.7,8.0,0.0
+FD00743,426,2026-04-23,2026T2,Alta Renda,Fundos,,0-6 meses,8,Demorou um pouco para encontrar informacoes,2026Q2,,0.0,0.0,,0.0,0.0
+FD00744,81,2026-11-06,2026T2,Varejo,Carteira Administrada,Assessoria,2-5 anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00745,93,2026-07-05,2026T2,Varejo,Tesouro Direto,App,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,31.7,13.0,0.0
+FD00746,407,2026-04-16,2026T2,Alta Renda,Fundos,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,10.8,4.0,0.0
+FD00747,354,2026-05-23,2026T2,Private,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,74.3,6.0,0.0
+FD00748,76,2026-07-04,2026T2,Varejo,Fundos,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00749,294,2026-04-26,2026T2,Alta Renda,Tesouro Direto,Central de Atendimento,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,22.950000000000003,5.0,1.0
+FD00750,200,2026-03-04,2026T2,Varejo,COE,Assessoria,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00751,160,2026-09-05,2026T2,Varejo,Fundos,Central de Atendimento,5+ anos,9,Atendimento claro e rapido,2026Q2,,0.0,1.0,26.8,1.0,0.0
+FD00752,489,2026-05-05,2026T2,Novo Investidor,CDB,Assessoria,2-5 anos,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,,0.0,0.0
+FD00753,499,2026-06-21,2026T2,Novo Investidor,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,69.9,8.0,0.0
+FD00754,175,2026-01-05,2026T2,Varejo,Carteira Administrada,Assessoria,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00755,329,2026-06-13,2026T2,Alta Renda,Fundos,App,2-5 anos,4,Nao ficou claro o risco do produto,2026Q2,3.5,2.0,0.0,,0.0,0.0
+FD00756,530,2026-05-04,2026T2,Varejo,Carteira Administrada,Internet Banking,0-6 meses,9,,2026Q2,,0.0,1.0,67.8,8.0,0.0
+FD00757,212,2026-06-19,2026T2,Varejo,CDB,Internet Banking,2-5 anos,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,18.3,10.0,0.0
+FD00758,124,2026-05-16,2026T2,Private,Fundos,Assessoria,5+ anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00759,178,2026-02-06,2026T2,Alta Renda,Tesouro Direto,Internet Banking,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,37.8,2.0,0.0
+FD00760,501,2026-09-04,2026T2,Varejo,Fundos,Internet Banking,0-6 meses,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00761,535,2026-06-25,2026T2,Varejo,Fundos,App,5+ anos,9,Atendimento claro e rapido,2026Q2,9.0,1.0,0.0,28.0,8.0,0.0
+FD00762,154,2026-12-06,2026T2,Alta Renda,CDB,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00763,470,2026-11-06,2026T2,Novo Investidor,COE,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,11.9,11.0,0.0
+FD00764,481,2026-04-25,2026T2,Varejo,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,12.7,6.0,0.0
+FD00765,462,2026-06-04,2026T2,Varejo,CDB,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,17.2,11.0,0.0
+FD00766,271,2026-07-05,2026T2,Varejo,Carteira Administrada,Internet Banking,2-5 anos,1,Nao ficou claro o risco do produto,2026Q2,,0.0,0.0,,0.0,0.0
+FD00767,314,2026-03-04,2026T2,Novo Investidor,Tesouro Direto,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,1.0,115.0,6.0,0.0
+FD00768,381,2026-06-13,2026T2,Private,CDB,App,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,,0.0,0.0
+FD00769,384,2026-04-16,2026T2,Varejo,Carteira Administrada,App,2-5 anos,7,,2026Q2,8.0,1.0,0.0,48.400000000000006,14.0,0.0
+FD00770,288,2026-04-13,2026T2,Alta Renda,Carteira Administrada,App,5+ anos,6,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,,0.0,0.0
+FD00771,49,2026-03-04,2026T2,Alta Renda,Tesouro Direto,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,12.5,6.0,0.0
+FD00772,486,2026-02-05,2026T2,Novo Investidor,CDB,Central de Atendimento,5+ anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,9.3,4.0,0.0
+FD00773,294,2026-04-30,2026T2,Alta Renda,COE,Internet Banking,0-6 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,22.950000000000003,5.0,1.0
+FD00774,408,2026-04-22,2026T2,Private,CDB,App,2-5 anos,9,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,25.9,11.0,0.0
+FD00775,55,2026-06-21,2026T2,Varejo,Carteira Administrada,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,8.0,1.0,0.0,,0.0,0.0
+FD00776,250,2026-09-05,2026T2,Varejo,Fundos,Internet Banking,0-6 meses,10,Atendimento claro e rapido,2026Q2,10.0,1.0,1.0,41.3,9.0,0.0
+FD00777,72,2026-05-19,2026T2,Private,Tesouro Direto,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00778,492,2026-05-21,2026T2,Varejo,Fundos,Central de Atendimento,2-5 anos,5,Aplicativo travou durante consulta,2026Q2,,0.0,0.0,15.9,2.0,0.0
+FD00779,336,2026-07-04,2026T2,Private,Carteira Administrada,Central de Atendimento,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00780,543,2026-08-06,2026T2,Private,Fundos,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00781,36,2026-06-17,2026T2,Varejo,Tesouro Direto,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,2.0,56.65,21.0,1.0
+FD00782,546,2026-05-19,2026T2,Alta Renda,Carteira Administrada,Internet Banking,5+ anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00783,303,2026-05-15,2026T2,Alta Renda,Fundos,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,9.7,7.0,0.0
+FD00784,472,2026-06-17,2026T2,Novo Investidor,CDB,App,2-5 anos,7,Aplicativo poderia explicar melhor,2026Q2,,0.0,0.0,27.0,5.0,0.0
+FD00785,136,2026-05-15,2026T2,Alta Renda,CDB,Assessoria,5+ anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,16.4,8.0,0.0
+FD00786,408,2026-05-27,2026T2,Private,Tesouro Direto,App,6-24 meses,10,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,25.9,11.0,0.0
+FD00787,310,2026-05-14,2026T2,Private,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,13.9,8.0,0.0
+FD00788,459,2026-05-17,2026T2,Private,CDB,App,5+ anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,10.8,5.0,0.0
+FD00789,36,2026-05-13,2026T2,Varejo,Carteira Administrada,App,6-24 meses,8,Tive duvida sobre rentabilidade,2026Q2,,0.0,2.0,56.65,21.0,1.0
+FD00790,358,2026-03-04,2026T2,Varejo,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00791,421,2026-05-06,2026T2,Varejo,Tesouro Direto,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,10.0,1.0,1.0,37.9,12.0,0.0
+FD00792,179,2026-05-23,2026T2,Novo Investidor,CDB,Internet Banking,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,13.7,3.0,0.0
+FD00793,333,2026-12-06,2026T2,Private,Carteira Administrada,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00794,322,2026-04-27,2026T2,Varejo,Fundos,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,16.8,10.0,1.0
+FD00795,278,2026-11-05,2026T2,Varejo,Tesouro Direto,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00796,53,2026-11-06,2026T2,Novo Investidor,Tesouro Direto,Central de Atendimento,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,4.5,2.0,2.0,42.7,15.0,1.0
+FD00797,68,2026-03-05,2026T2,Varejo,Carteira Administrada,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,66.8,6.0,0.0
+FD00798,73,2026-03-05,2026T2,Private,Carteira Administrada,App,2-5 anos,6,Aplicativo travou durante consulta,2026Q2,,0.0,0.0,72.4,8.0,0.0
+FD00799,550,2026-06-27,2026T2,Varejo,Fundos,Central de Atendimento,2-5 anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,24.5,3.0,0.0
+FD00800,239,2026-06-17,2026T2,Varejo,Fundos,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00801,541,2026-10-06,2026T2,Novo Investidor,Fundos,Internet Banking,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00802,359,2026-05-22,2026T2,Novo Investidor,Tesouro Direto,App,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,27.3,12.0,0.0
+FD00803,532,2026-05-29,2026T2,Novo Investidor,Carteira Administrada,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,1.0,102.1,6.0,0.0
+FD00804,329,2026-05-04,2026T2,Alta Renda,Fundos,App,5+ anos,2,Informacoes divergentes sobre o produto,2026Q2,3.5,2.0,0.0,,0.0,0.0
+FD00805,364,2026-12-04,2026T2,Alta Renda,Fundos,Central de Atendimento,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,23.1,4.0,0.0
+FD00806,83,2026-05-28,2026T2,Alta Renda,CDB,Central de Atendimento,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,10.0,3.0,1.0
+FD00807,527,2026-06-13,2026T2,Alta Renda,Tesouro Direto,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00808,525,2026-04-26,2026T2,Varejo,Tesouro Direto,App,5+ anos,6,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,38.1,7.0,0.0
+FD00809,114,2026-04-18,2026T2,Varejo,Carteira Administrada,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,9.0,2.0,2.0,49.0,25.0,0.0
+FD00810,82,2026-05-14,2026T2,Varejo,Carteira Administrada,App,2-5 anos,4,Nao ficou claro o risco do produto,2026Q2,5.0,1.0,0.0,86.1,14.0,0.0
+FD00811,442,2026-06-15,2026T2,Novo Investidor,Carteira Administrada,App,6-24 meses,6,Aplicativo travou durante consulta,2026Q2,6.0,1.0,2.0,111.0,5.0,0.0
+FD00812,297,2026-06-30,2026T2,Varejo,COE,App,0-6 meses,3,Nao entendi a cobranca,2026Q2,9.0,1.0,0.0,1.0,8.0,0.0
+FD00813,297,2026-01-05,2026T2,Varejo,Fundos,Internet Banking,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,9.0,1.0,0.0,1.0,8.0,0.0
+FD00814,161,2026-05-28,2026T2,Alta Renda,Carteira Administrada,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,,0.0,0.0
+FD00815,279,2026-02-04,2026T2,Varejo,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00816,159,2026-04-19,2026T2,Private,Tesouro Direto,Assessoria,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,37.6,7.0,0.0
+FD00817,112,2026-06-16,2026T2,Private,COE,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,17.4,14.0,0.0
+FD00818,59,2026-03-05,2026T2,Private,Fundos,Central de Atendimento,0-6 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,25.4,4.0,0.0
+FD00819,88,2026-09-05,2026T2,Varejo,Fundos,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,33.2,10.0,0.0
+FD00820,507,2026-06-26,2026T2,Novo Investidor,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,9.0,1.0,1.0,93.4,8.0,0.0
+FD00821,31,2026-06-25,2026T2,Varejo,Tesouro Direto,Assessoria,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,26.1,3.0,0.0
+FD00822,510,2026-05-25,2026T2,Varejo,Carteira Administrada,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q2,10.0,1.0,1.0,88.7,7.0,0.0
+FD00823,334,2026-04-25,2026T2,Private,Carteira Administrada,Assessoria,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,83.9,5.0,0.0
+FD00824,143,2026-05-23,2026T2,Alta Renda,Tesouro Direto,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,10.3,8.0,0.0
+FD00825,144,2026-03-05,2026T2,Alta Renda,Fundos,Assessoria,5+ anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,,0.0,0.0
+FD00826,39,2026-04-25,2026T2,Varejo,Carteira Administrada,Central de Atendimento,0-6 meses,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,52.15,15.0,0.0
+FD00827,342,2026-06-19,2026T2,Alta Renda,COE,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00828,447,2026-05-13,2026T2,Novo Investidor,Tesouro Direto,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00829,275,2026-05-23,2026T2,Alta Renda,CDB,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q2,7.5,2.0,2.0,40.93333333333333,36.0,0.0
+FD00830,228,2026-05-17,2026T2,Alta Renda,Carteira Administrada,App,0-6 meses,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,88.5,8.0,0.0
+FD00831,242,2026-06-27,2026T2,Novo Investidor,CDB,Assessoria,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,1.0,43.0,6.0,0.0
+FD00832,443,2026-04-24,2026T2,Alta Renda,Tesouro Direto,App,5+ anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,9.5,7.0,0.0
+FD00833,396,2026-04-26,2026T2,Novo Investidor,Tesouro Direto,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,2.0,54.05,17.0,0.0
+FD00834,411,2026-02-06,2026T2,Alta Renda,CDB,Internet Banking,5+ anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,1.0,4.0,0.0
+FD00835,262,2026-05-13,2026T2,Novo Investidor,Fundos,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,10.0,1.0,0.0,21.8,4.0,1.0
+FD00836,400,2026-04-04,2026T2,Varejo,Fundos,App,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,32.6,13.0,0.0
+FD00837,371,2026-08-04,2026T2,Private,Carteira Administrada,App,5+ anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,89.1,5.0,0.0
+FD00838,184,2026-11-04,2026T2,Varejo,CDB,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,11.6,7.0,0.0
+FD00839,117,2026-04-21,2026T2,Varejo,CDB,App,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,8.0,1.0,0.0,29.3,9.0,0.0
+FD00840,53,2026-04-23,2026T2,Novo Investidor,Fundos,App,6-24 meses,0,Nao ficou claro o risco do produto,2026Q2,4.5,2.0,2.0,42.7,15.0,1.0
+FD00841,452,2026-05-28,2026T2,Alta Renda,Fundos,App,6-24 meses,1,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,15.2,11.0,0.0
+FD00842,522,2026-06-17,2026T2,Alta Renda,Tesouro Direto,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,44.45,19.0,0.0
+FD00843,469,2026-07-04,2026T2,Private,CDB,App,0-6 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,15.3,8.0,0.0
+FD00844,275,2026-04-27,2026T2,Alta Renda,CDB,App,0-6 meses,9,Atendimento claro e rapido,2026Q2,7.5,2.0,2.0,40.93333333333333,36.0,0.0
+FD00845,157,2026-04-24,2026T2,Varejo,Fundos,Assessoria,6-24 meses,5,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,21.3,7.0,0.0
+FD00846,454,2026-04-05,2026T2,Novo Investidor,CDB,App,2-5 anos,7,Aplicativo poderia explicar melhor,2026Q2,6.0,1.0,0.0,,0.0,0.0
+FD00847,134,2026-04-24,2026T2,Alta Renda,Carteira Administrada,Central de Atendimento,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,1.0,98.6,6.0,1.0
+FD00848,105,2026-04-30,2026T2,Novo Investidor,Fundos,App,2-5 anos,2,,2026Q2,,0.0,0.0,30.4,9.0,0.0
+FD00849,374,2026-09-05,2026T2,Varejo,CDB,Assessoria,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,6.9,5.0,0.0
+FD00850,16,2026-04-25,2026T2,Private,Fundos,App,2-5 anos,6,Nao consegui falar com assessor,2026Q2,,0.0,0.0,10.1,6.0,0.0
+FD00851,53,2026-11-04,2026T2,Novo Investidor,Fundos,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,4.5,2.0,2.0,42.7,15.0,1.0
+FD00852,467,2026-09-04,2026T2,Alta Renda,Fundos,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,,0.0,0.0
+FD00853,212,2026-04-19,2026T2,Varejo,CDB,Assessoria,5+ anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,18.3,10.0,0.0
+FD00854,79,2026-04-28,2026T2,Alta Renda,Tesouro Direto,App,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,13.3,11.0,0.0
+FD00855,229,2026-06-21,2026T2,Novo Investidor,CDB,App,5+ anos,2,Nao entendi a cobranca,2026Q2,2.0,1.0,2.0,36.55,17.0,0.0
+FD00856,268,2026-02-04,2026T2,Varejo,COE,App,5+ anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00857,300,2026-05-30,2026T2,Private,Fundos,Internet Banking,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,9.0,1.0,0.0,6.7,5.0,0.0
+FD00858,141,2026-03-05,2026T2,Novo Investidor,Fundos,Assessoria,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,38.7,4.0,0.0
+FD00859,238,2026-06-26,2026T2,Private,CDB,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,25.7,12.0,1.0
+FD00860,141,2026-05-25,2026T2,Novo Investidor,Tesouro Direto,Assessoria,2-5 anos,4,Nao ficou claro o risco do produto,2026Q2,,0.0,0.0,38.7,4.0,0.0
+FD00861,443,2026-05-16,2026T2,Alta Renda,CDB,Internet Banking,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,9.5,7.0,0.0
+FD00862,17,2026-04-17,2026T2,Alta Renda,Tesouro Direto,App,5+ anos,10,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,22.1,7.0,0.0
+FD00863,10,2026-06-16,2026T2,Varejo,Carteira Administrada,App,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,35.55,17.0,1.0
+FD00864,197,2026-05-27,2026T2,Varejo,CDB,Internet Banking,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,10.7,3.0,0.0
+FD00865,517,2026-05-19,2026T2,Alta Renda,Fundos,App,0-6 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,12.0,7.0,0.0
+FD00866,422,2026-01-04,2026T2,Varejo,Fundos,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,1.0,25.2,8.0,0.0
+FD00867,103,2026-06-26,2026T2,Alta Renda,Tesouro Direto,App,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,35.8,14.0,0.0
+FD00868,191,2026-12-04,2026T2,Private,Tesouro Direto,Central de Atendimento,0-6 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,47.0,13.0,0.0
+FD00869,101,2026-06-16,2026T2,Private,Carteira Administrada,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,47.1,18.0,0.0
+FD00870,202,2026-04-28,2026T2,Private,Fundos,App,5+ anos,10,Assessoria ajudou na decisao,2026Q2,10.0,1.0,0.0,9.4,10.0,0.0
+FD00871,524,2026-04-23,2026T2,Varejo,Fundos,App,5+ anos,5,Aplicativo travou durante consulta,2026Q2,,0.0,0.0,25.6,18.0,0.0
+FD00872,465,2026-05-24,2026T2,Novo Investidor,CDB,App,2-5 anos,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,40.2,11.0,0.0
+FD00873,94,2026-06-06,2026T2,Varejo,CDB,App,5+ anos,10,Assessoria ajudou na decisao,2026Q2,10.0,1.0,0.0,,0.0,0.0
+FD00874,502,2026-03-05,2026T2,Alta Renda,Carteira Administrada,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,75.2,9.0,0.0
+FD00875,489,2026-03-06,2026T2,Novo Investidor,Tesouro Direto,App,5+ anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00876,202,2026-08-05,2026T2,Private,Carteira Administrada,App,6-24 meses,4,Nao ficou claro o risco do produto,2026Q2,10.0,1.0,0.0,9.4,10.0,0.0
+FD00877,131,2026-06-18,2026T2,Alta Renda,Carteira Administrada,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,1.0,83.2,10.0,1.0
+FD00878,403,2026-05-13,2026T2,Alta Renda,Tesouro Direto,Central de Atendimento,0-6 meses,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,17.3,9.0,0.0
+FD00879,331,2026-06-28,2026T2,Alta Renda,Fundos,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00880,464,2026-09-06,2026T2,Varejo,Carteira Administrada,Central de Atendimento,2-5 anos,5,Nao consegui falar com assessor,2026Q2,,0.0,0.0,,0.0,0.0
+FD00881,170,2026-03-06,2026T2,Varejo,CDB,App,6-24 meses,9,Atendimento claro e rapido,2026Q2,9.0,1.0,0.0,8.6,8.0,0.0
+FD00882,421,2026-03-05,2026T2,Varejo,CDB,App,0-6 meses,5,Informacoes divergentes sobre o produto,2026Q2,10.0,1.0,1.0,37.9,12.0,0.0
+FD00883,71,2026-05-16,2026T2,Varejo,Carteira Administrada,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00884,498,2026-04-30,2026T2,Private,Carteira Administrada,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,1.0,86.7,5.0,0.0
+FD00885,475,2026-05-29,2026T2,Alta Renda,Carteira Administrada,App,5+ anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,1.0,31.7,9.0,0.0
+FD00886,13,2026-05-17,2026T2,Varejo,CDB,App,5+ anos,7,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,26.1,7.0,0.0
+FD00887,384,2026-06-21,2026T2,Varejo,CDB,App,6-24 meses,10,Atendimento claro e rapido,2026Q2,8.0,1.0,0.0,48.400000000000006,14.0,0.0
+FD00888,363,2026-05-13,2026T2,Alta Renda,COE,App,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00889,219,2026-06-05,2026T2,Varejo,Fundos,App,6-24 meses,9,Atendimento claro e rapido,2026Q2,9.0,1.0,0.0,18.8,2.0,0.0
+FD00890,368,2026-10-06,2026T2,Novo Investidor,Tesouro Direto,App,0-6 meses,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,19.8,12.0,0.0
+FD00891,327,2026-05-27,2026T2,Alta Renda,CDB,App,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00892,97,2026-06-14,2026T2,Alta Renda,COE,App,2-5 anos,7,Aplicativo poderia explicar melhor,2026Q2,7.0,1.0,0.0,13.6,10.0,1.0
+FD00893,311,2026-07-06,2026T2,Alta Renda,Carteira Administrada,Internet Banking,6-24 meses,2,Demora para resolver meu problema,2026Q2,,0.0,0.0,64.9,4.0,0.0
+FD00894,39,2026-04-19,2026T2,Varejo,CDB,App,0-6 meses,0,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,52.15,15.0,0.0
+FD00895,512,2026-04-26,2026T2,Alta Renda,Carteira Administrada,App,0-6 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00896,148,2026-05-28,2026T2,Alta Renda,Fundos,Assessoria,5+ anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,23.9,5.0,0.0
+FD00897,386,2026-04-06,2026T2,Varejo,Tesouro Direto,App,2-5 anos,5,Nao ficou claro o risco do produto,2026Q2,,0.0,1.0,55.949999999999996,20.0,1.0
+FD00898,152,2026-05-22,2026T2,Private,Tesouro Direto,App,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,14.6,6.0,0.0
+FD00899,50,2026-04-26,2026T2,Private,Tesouro Direto,Internet Banking,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,9.0,1.0,0.0,57.6,6.0,0.0
+FD00900,37,2026-04-21,2026T2,Alta Renda,CDB,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,2.4,3.0,0.0
+FD00901,181,2026-06-20,2026T2,Alta Renda,Tesouro Direto,Internet Banking,0-6 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,7.7,3.0,0.0
+FD00902,184,2026-06-28,2026T2,Varejo,COE,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,11.6,7.0,0.0
+FD00903,314,2026-04-13,2026T2,Novo Investidor,Carteira Administrada,App,0-6 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,1.0,115.0,6.0,0.0
+FD00904,461,2026-02-06,2026T2,Private,Carteira Administrada,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,8.0,1.0,1.0,83.3,9.0,0.0
+FD00905,512,2026-10-05,2026T2,Alta Renda,Carteira Administrada,App,2-5 anos,8,"Atendimento resolveu, mas demorou",2026Q2,,0.0,0.0,,0.0,0.0
+FD00906,219,2026-09-06,2026T2,Varejo,Tesouro Direto,Assessoria,5+ anos,9,Atendimento claro e rapido,2026Q2,9.0,1.0,0.0,18.8,2.0,0.0
+FD00907,530,2026-04-06,2026T2,Varejo,CDB,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,1.0,67.8,8.0,0.0
+FD00908,250,2026-05-18,2026T2,Varejo,CDB,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,1.0,41.3,9.0,0.0
+FD00909,46,2026-08-05,2026T2,Varejo,Carteira Administrada,Assessoria,2-5 anos,3,Nao ficou claro o risco do produto,2026Q2,3.0,1.0,0.0,,0.0,0.0
+FD00910,273,2026-04-18,2026T2,Varejo,Fundos,App,5+ anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00911,101,2026-02-04,2026T2,Private,Tesouro Direto,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,47.1,18.0,0.0
+FD00912,356,2026-10-04,2026T2,Varejo,Fundos,Assessoria,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00913,447,2026-02-04,2026T2,Novo Investidor,Tesouro Direto,App,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00914,317,2026-04-05,2026T2,Alta Renda,Tesouro Direto,App,6-24 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00915,399,2026-12-04,2026T2,Varejo,Tesouro Direto,Assessoria,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,17.0,4.0,0.0
+FD00916,330,2026-04-24,2026T2,Private,CDB,App,5+ anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,20.0,10.0,0.0
+FD00917,230,2026-08-05,2026T2,Varejo,Fundos,App,2-5 anos,1,Nao entendi a cobranca,2026Q2,,0.0,0.0,34.4,10.0,0.0
+FD00918,398,2026-09-05,2026T2,Alta Renda,Carteira Administrada,App,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,81.6,10.0,0.0
+FD00919,353,2026-12-05,2026T2,Varejo,CDB,Assessoria,5+ anos,7,Aplicativo poderia explicar melhor,2026Q2,,0.0,0.0,23.9,7.0,0.0
+FD00920,166,2026-02-04,2026T2,Varejo,Carteira Administrada,Internet Banking,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00921,245,2026-01-04,2026T2,Private,CDB,App,5+ anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00922,92,2026-04-22,2026T2,Varejo,Fundos,Central de Atendimento,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,1.0,24.8,8.0,0.0
+FD00923,295,2026-06-19,2026T2,Private,CDB,App,6-24 meses,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,17.7,8.0,0.0
+FD00924,265,2026-06-29,2026T2,Varejo,CDB,Assessoria,2-5 anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,23.0,7.0,0.0
+FD00925,373,2026-06-13,2026T2,Private,Fundos,Assessoria,6-24 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,18.3,9.0,0.0
+FD00926,388,2026-05-06,2026T2,Private,Fundos,Central de Atendimento,0-6 meses,9,Consegui acompanhar minha carteira,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00927,362,2026-12-05,2026T2,Varejo,Carteira Administrada,Internet Banking,2-5 anos,6,Nao entendi a cobranca,2026Q2,,0.0,0.0,,0.0,0.0
+FD00928,318,2026-11-05,2026T2,Private,COE,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FD00929,378,2026-09-04,2026T2,Private,COE,App,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00930,49,2026-05-28,2026T2,Alta Renda,CDB,App,5+ anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,12.5,6.0,0.0
+FD00931,380,2026-01-06,2026T2,Alta Renda,Carteira Administrada,App,0-6 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00932,415,2026-10-04,2026T2,Varejo,Carteira Administrada,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,37.55,16.0,0.0
+FD00933,25,2026-10-04,2026T2,Alta Renda,Fundos,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,1.0,5.0,1.0
+FD00934,541,2026-06-23,2026T2,Novo Investidor,Carteira Administrada,Internet Banking,6-24 meses,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00935,28,2026-04-17,2026T2,Alta Renda,Fundos,App,2-5 anos,4,Demora para resolver meu problema,2026Q2,,0.0,0.0,30.2,15.0,1.0
+FD00936,57,2026-01-05,2026T2,Private,CDB,App,5+ anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00937,391,2026-04-17,2026T2,Novo Investidor,Carteira Administrada,Internet Banking,2-5 anos,9,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,77.3,4.0,0.0
+FD00938,316,2026-03-04,2026T2,Varejo,Fundos,App,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,23.6,12.0,0.0
+FD00939,29,2026-02-04,2026T2,Varejo,Fundos,Central de Atendimento,0-6 meses,3,Aplicativo travou durante consulta,2026Q2,,0.0,0.0,,0.0,0.0
+FD00940,138,2026-04-15,2026T2,Varejo,CDB,Central de Atendimento,2-5 anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,21.6,5.0,0.0
+FD00941,396,2026-05-13,2026T2,Novo Investidor,Carteira Administrada,App,5+ anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,2.0,54.05,17.0,0.0
+FD00942,447,2026-01-05,2026T2,Novo Investidor,CDB,App,6-24 meses,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00943,546,2026-04-17,2026T2,Alta Renda,Fundos,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00944,422,2026-06-14,2026T2,Varejo,CDB,App,2-5 anos,8,Demorou um pouco para encontrar informacoes,2026Q2,,0.0,1.0,25.2,8.0,0.0
+FD00945,348,2026-04-23,2026T2,Private,Carteira Administrada,Central de Atendimento,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,1.0,87.1,2.0,0.0
+FD00946,270,2026-01-05,2026T2,Alta Renda,Tesouro Direto,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00947,104,2026-10-05,2026T2,Alta Renda,Carteira Administrada,App,2-5 anos,9,Atendimento claro e rapido,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00948,153,2026-05-17,2026T2,Private,CDB,App,5+ anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,11.8,9.0,0.0
+FD00949,469,2026-06-06,2026T2,Private,Tesouro Direto,App,2-5 anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,15.3,8.0,0.0
+FD00950,513,2026-05-28,2026T2,Novo Investidor,Carteira Administrada,App,6-24 meses,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,85.1,11.0,0.0
+FD00951,254,2026-06-06,2026T2,Alta Renda,CDB,App,2-5 anos,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,,0.0,0.0
+FD00952,417,2026-06-15,2026T2,Alta Renda,Tesouro Direto,Assessoria,5+ anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,17.6,7.0,0.0
+FD00953,238,2026-04-27,2026T2,Private,CDB,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,25.7,12.0,1.0
+FD00954,168,2026-07-06,2026T2,Private,Carteira Administrada,Assessoria,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,1.0,77.0,7.0,0.0
+FD00955,116,2026-06-16,2026T2,Varejo,Tesouro Direto,App,2-5 anos,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,,0.0,0.0
+FD00956,408,2026-05-06,2026T2,Private,CDB,App,2-5 anos,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,0.0,25.9,11.0,0.0
+FD00957,416,2026-03-05,2026T2,Alta Renda,Carteira Administrada,Assessoria,2-5 anos,9,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00958,291,2026-05-13,2026T2,Private,CDB,Assessoria,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,23.4,6.0,0.0
+FD00959,50,2026-02-06,2026T2,Private,Carteira Administrada,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,9.0,1.0,0.0,57.6,6.0,0.0
+FD00960,436,2026-04-23,2026T2,Varejo,Tesouro Direto,Central de Atendimento,5+ anos,6,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,,0.0,0.0
+FD00961,287,2026-05-16,2026T2,Alta Renda,Fundos,App,6-24 meses,10,Boa experiencia no aplicativo,2026Q2,10.0,1.0,1.0,20.5,13.0,0.0
+FD00962,524,2026-05-27,2026T2,Varejo,Tesouro Direto,Assessoria,2-5 anos,8,Tive duvida sobre rentabilidade,2026Q2,,0.0,0.0,25.6,18.0,0.0
+FD00963,297,2026-05-04,2026T2,Varejo,Carteira Administrada,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,9.0,1.0,0.0,1.0,8.0,0.0
+FD00964,217,2026-04-22,2026T2,Alta Renda,CDB,App,2-5 anos,3,Nao entendi a cobranca,2026Q2,2.0,1.0,0.0,21.0,11.0,1.0
+FD00965,168,2026-04-06,2026T2,Private,Carteira Administrada,App,0-6 meses,10,Boa experiencia no aplicativo,2026Q2,,0.0,1.0,77.0,7.0,0.0
+FD00966,191,2026-06-15,2026T2,Private,Carteira Administrada,Assessoria,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,10.0,1.0,0.0,47.0,13.0,0.0
+FD00967,24,2026-06-24,2026T2,Alta Renda,CDB,App,0-6 meses,10,Consegui acompanhar minha carteira,2026Q2,,0.0,0.0,10.8,12.0,1.0
+FD00968,509,2026-04-18,2026T2,Novo Investidor,CDB,Assessoria,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,7.5,2.0,0.0,33.1,18.0,0.0
+FD00969,304,2026-03-05,2026T2,Varejo,Fundos,App,0-6 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,33.9,9.0,0.0
+FD00970,515,2026-06-14,2026T2,Private,Carteira Administrada,App,5+ anos,10,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00971,85,2026-04-25,2026T2,Alta Renda,Tesouro Direto,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,12.4,11.0,0.0
+FD00972,284,2026-04-14,2026T2,Private,COE,App,6-24 meses,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,8.5,6.0,0.0
+FD00973,386,2026-05-20,2026T2,Varejo,Carteira Administrada,App,5+ anos,5,Aplicativo travou durante consulta,2026Q2,,0.0,1.0,55.949999999999996,20.0,1.0
+FD00974,392,2026-05-17,2026T2,Alta Renda,Fundos,App,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,21.0,7.0,0.0
+FD00975,468,2026-04-27,2026T2,Varejo,CDB,Internet Banking,5+ anos,10,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,1.0,3.0,0.0
+FD00976,114,2026-04-06,2026T2,Varejo,CDB,App,0-6 meses,3,Informacoes divergentes sobre o produto,2026Q2,9.0,2.0,2.0,49.0,25.0,0.0
+FD00977,70,2026-06-18,2026T2,Novo Investidor,Carteira Administrada,Internet Banking,2-5 anos,9,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00978,429,2026-10-04,2026T2,Alta Renda,CDB,Internet Banking,0-6 meses,9,,2026Q2,,0.0,1.0,34.9,6.0,0.0
+FD00979,312,2026-02-06,2026T2,Private,COE,Internet Banking,6-24 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,7.6,15.0,0.0
+FD00980,509,2026-06-17,2026T2,Novo Investidor,Fundos,App,5+ anos,4,Nao ficou claro o risco do produto,2026Q2,7.5,2.0,0.0,33.1,18.0,0.0
+FD00981,484,2026-09-05,2026T2,Varejo,Tesouro Direto,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00982,109,2026-06-15,2026T2,Private,CDB,Internet Banking,5+ anos,10,Assessoria ajudou na decisao,2026Q2,,0.0,0.0,,0.0,0.0
+FD00983,457,2026-05-14,2026T2,Private,Fundos,Internet Banking,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,,0.0,0.0
+FD00984,108,2026-06-21,2026T2,Varejo,CDB,Assessoria,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,4.2,5.0,0.0
+FD00985,137,2026-05-27,2026T2,Alta Renda,Fundos,App,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,53.25,16.0,1.0
+FD00986,183,2026-05-22,2026T2,Novo Investidor,Carteira Administrada,Assessoria,0-6 meses,7,Tive duvida sobre rentabilidade,2026Q2,,0.0,0.0,79.3,6.0,1.0
+FD00987,271,2026-02-05,2026T2,Varejo,Fundos,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,,0.0,0.0
+FD00988,312,2026-04-15,2026T2,Private,COE,Assessoria,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,7.6,15.0,0.0
+FD00989,275,2026-05-21,2026T2,Alta Renda,Carteira Administrada,App,2-5 anos,5,Nao entendi a cobranca,2026Q2,7.5,2.0,2.0,40.93333333333333,36.0,0.0
+FD00990,207,2026-04-13,2026T2,Private,Carteira Administrada,App,5+ anos,9,Boa experiencia no aplicativo,2026Q2,9.0,1.0,0.0,,0.0,0.0
+FD00991,522,2026-06-21,2026T2,Alta Renda,Carteira Administrada,App,6-24 meses,10,Consegui acompanhar minha carteira,2026Q2,10.0,1.0,0.0,44.45,19.0,0.0
+FD00992,114,2026-06-13,2026T2,Varejo,CDB,App,2-5 anos,8,Demorou um pouco para encontrar informacoes,2026Q2,9.0,2.0,2.0,49.0,25.0,0.0
+FD00993,496,2026-04-27,2026T2,Alta Renda,CDB,App,2-5 anos,10,Atendimento claro e rapido,2026Q2,,0.0,0.0,,0.0,0.0
+FD00994,400,2026-05-21,2026T2,Varejo,CDB,Assessoria,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,32.6,13.0,0.0
+FD00995,137,2026-05-19,2026T2,Alta Renda,Carteira Administrada,Internet Banking,5+ anos,1,Demora para resolver meu problema,2026Q2,10.0,1.0,0.0,53.25,16.0,1.0
+FD00996,301,2026-06-27,2026T2,Private,Tesouro Direto,App,5+ anos,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,20.8,8.0,0.0
+FD00997,51,2026-08-06,2026T2,Novo Investidor,CDB,Assessoria,2-5 anos,7,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,30.5,2.0,0.0
+FD00998,89,2026-06-29,2026T2,Novo Investidor,Carteira Administrada,Central de Atendimento,5+ anos,9,Atendimento claro e rapido,2026Q2,10.0,1.0,0.0,,0.0,0.0
+FD00999,523,2026-06-19,2026T2,Novo Investidor,Carteira Administrada,App,0-6 meses,4,Informacoes divergentes sobre o produto,2026Q2,,0.0,0.0,73.6,13.0,0.0
+FD01000,531,2026-05-25,2026T2,Varejo,Tesouro Direto,Assessoria,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,31.0,7.0,0.0
+FDX00000,491,2026-01-19,2026T1,Alta Renda,Fundos,App,0-6 meses,9,Assessoria ajudou na decisao,2026Q1,,0.0,0.0,13.2,11.0,0.0
+FDX00001,465,2026-05-25,2026T2,Novo Investidor,CDB,App,2-5 anos,8,"Experiencia ok, mas poderia ser mais simples",2026Q2,,0.0,0.0,40.2,11.0,0.0
+FDX00002,73,2026-04-05,2026T2,Private,Carteira Administrada,App,2-5 anos,6,Aplicativo travou durante consulta,2026Q2,,0.0,0.0,72.4,8.0,0.0
+FDX00003,439,2025-10-31,2025T4,Varejo,Tesouro Direto,Internet Banking,6-24 meses,9,Assessoria ajudou na decisao,2025Q4,,0.0,0.0,24.7,3.0,0.0
+FDX00004,168,2025-12-13,2025T4,Private,Tesouro Direto,Internet Banking,2-5 anos,6,,2025Q4,,0.0,0.0,,0.0,0.0
+FDX00005,447,2026-05-14,2026T2,Novo Investidor,Tesouro Direto,App,6-24 meses,10,Informacoes estavam faceis de encontrar,2026Q2,,0.0,0.0,,0.0,0.0
+FDX00006,314,2026-04-04,2026T2,Novo Investidor,Tesouro Direto,App,2-5 anos,9,Boa experiencia no aplicativo,2026Q2,,0.0,1.0,115.0,6.0,0.0
+FDX00007,396,2026-04-27,2026T2,Novo Investidor,Tesouro Direto,Central de Atendimento,2-5 anos,9,Informacoes estavam faceis de encontrar,2026Q2,,0.0,2.0,54.05,17.0,0.0
+FDX00008,415,2026-11-04,2026T2,Varejo,Carteira Administrada,App,0-6 meses,9,Boa experiencia no aplicativo,2026Q2,,0.0,0.0,37.55,16.0,0.0
+FDX00009,156,2025-12-22,2025T4,Private,Fundos,Internet Banking,6-24 meses,10,Atendimento claro e rapido,2025Q4,,0.0,1.0,43.3,3.0,1.0
+FDX00010,7,2026-01-04,2026T1,Private,Tesouro Direto,Internet Banking,2-5 anos,10,Informacoes estavam faceis de encontrar,2026Q1,9.0,1.0,0.0,,0.0,0.0
+FDX00011,517,2025-11-16,2025T4,Alta Renda,CDB,App,6-24 meses,4,Informacoes divergentes sobre o produto,2025Q4,,0.0,0.0,14.2,8.0,1.0
