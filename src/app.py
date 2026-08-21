@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 def limpar_formulario(df):
@@ -188,6 +189,9 @@ def unificar_base(formulario, atendimento, extrato):
     return base_unificada
 
 if __name__ == "__main__":
+
+    os.makedirs("output", exist_ok=True)
+    
     formulario = pd.read_csv("data/formulario_digital.csv")
     atendimento = pd.read_excel("data/atendimento_manual.xlsx")
     extrato = pd.read_csv("data/extrato_sistema.csv")
@@ -198,4 +202,7 @@ if __name__ == "__main__":
 
     base_final = unificar_base(formulario_limpo, atendimento_limpo, extrato_limpo)
 
-    base_final.to_csv("base_satisfacao_limpa.csv", index=False)
+    base_final.to_csv("output/base_satisfacao_limpa.csv", index=False)
+
+    from gerar_relatorio import gerar_relatorio
+    gerar_relatorio()
